@@ -1,6 +1,6 @@
 **Usage:**
 
-````
+```bash
 color_tool.py --help
 usage: color_tool.py [-h] {sort,convert,pack,unpack} ...
 
@@ -19,7 +19,7 @@ optional arguments:
 
 **sort** handler
 
-```
+```bash
 color_tool.py sort --help
 usage: color_tool.py sort [-h] [--sorting-algorithm {RGB,HSV,HSL,luminosity,step,step-alternated,hilbert}] --input-file INPUT_FILE
                           --format {RGB,HEX,HSL} [--output-file OUTPUT_FILE] [--direction {asc,desc}]
@@ -40,7 +40,7 @@ optional arguments:
 
 **convert** handler:
 
-```
+```bash
 color_tool.py convert --help
 usage: color_tool.py convert [-h] --input-file INPUT_FILE --format {RGB,HEX,HSL} [--output-file OUTPUT_FILE]
 
@@ -56,7 +56,7 @@ optional arguments:
 
 **pack** handler
 
-```
+```bash
 color_tool.py pack --help
 usage: color_tool.py pack [-h] --input-file INPUT_FILE --format {clr,ase,aco} --output-file OUTPUT_FILE
 
@@ -72,7 +72,7 @@ optional arguments:
 
 **unpack** handler
 
-```
+```bash
 color_tool.py unpack --help
 usage: color_tool.py unpack [-h] --input-file INPUT_FILE --format {RGB,HEX,HSL} [--output-file OUTPUT_FILE]
 
