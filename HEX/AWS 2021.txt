@@ -1,0 +1,18 @@
+#232F3E Squid Ink
+#161E2D Dark Squid Ink
+#FF9900 Amazon Orange
+#FFFFFF White
+#BF0813 R1 - Dark Red
+#D45B07 O1 - Dark Amazon Orange
+#3F8624 G1 - Dark Green
+#067F68 T1 - Dark Teal
+#2E27AD B1 - Dark Blue
+#4D27AA P1 - Dark Purple
+#B0084D M1 - Dark Magenta
+#FF5252 R2 - Light Red
+#FF9900 O2 - Light Amazon Orange
+#6CAE3E G2 - Light Green
+#56C0A7 T2 - Light Teal
+#527FFF B2 - Light Blue
+#A166FF P2 - Light Purple
+#FF4F8B M2 - Light Magenta
