@@ -1,4 +1,4 @@
-####Readme####
+###Readme###
 
 This tool will do, via a handler, the following:
 - it will sort colors in a file, based on one of the supported algorithms;
@@ -8,7 +8,9 @@ This tool will do, via a handler, the following:
 
 Install requirements:
 
-`python3 -m pip install -r requirements.txt`
+```
+python3 -m pip install -r requirements.txt
+```
 
 Due to `pyobjc` dependency, this script will work only MacOS.
 
@@ -102,7 +104,9 @@ optional arguments:
 
 **Input File Sample**
 
-`<HEX_COLOR|RGB_COLOR|HSL_COLOR> <COLOR_NAME`
+```
+<HEX_COLOR|RGB_COLOR|HSL_COLOR> <COLOR_NAME
+```
 
 ```
 #010203 HEX Color
