@@ -1,4 +1,4 @@
-###Readme###
+### Readme
 
 This tool will do, via a handler, the following:
 - it will sort colors in a file, based on one of the supported algorithms;
