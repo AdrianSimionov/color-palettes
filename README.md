@@ -1,3 +1,17 @@
+####Readme####
+
+This tool will do, via a handler, the following:
+- it will sort colors in a file, based on one of the supported algorithms;
+- it will convert the input file between HEX, RGB and HSL formats;
+- it will pack a HEX, RGB or HSL format into ACO and ASE formats;
+- it will unpack an ASE or ACO file into any of the HEX, RGB or HSL formats.
+
+Install requirements:
+
+`python3 -m pip install -r requirements.txt`
+
+Due to `pyobjc` dependency, this script will work only MacOS.
+
 **Usage:**
 
 ```
