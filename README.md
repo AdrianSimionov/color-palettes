@@ -1,4 +1,10 @@
-### Readme
+### Current Color Palettes
+
+| Name | CLR link (MacOS) | Adobe ASE | Adobe ACO |
+| :--- | :---: | :---: | :---: |
+| AWS 2021 | [CLR](CLR/AWS%202021.clr) | [ASE](ASE/AWS%202021.ase) | [ACO](ACO/AWS%202021.aco) |
+
+### About
 
 This tool will do, via a handler, the following:
 - it will sort colors in a file, based on one of the supported algorithms;
