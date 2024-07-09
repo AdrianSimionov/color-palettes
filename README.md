@@ -2,7 +2,7 @@
 
 | Name | CLR link (MacOS) | Adobe ASE | Adobe ACO |
 | :--- | :---: | :---: | :---: |
-| AWS 2021 | [CLR](CLR/AWS%202021.clr) | [ASE](ASE/AWS%202021.ase) | [ACO](ACO/AWS%202021.aco) |
+| AWS 2021 | [CLR](CLR/AWS%202021.clr "download") | [ASE](ASE/AWS%202021.ase "download") | [ACO](ACO/AWS%202021.aco "download") |
 
 ### About
 
