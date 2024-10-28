@@ -5,6 +5,7 @@
 | AWS 2021 | [CLR](CLR/AWS%202021.clr?raw=1) | [ASE](ASE/AWS%202021.ase?raw=1) | [ACO](ACO/AWS%202021.aco?raw=1) |
 | Apple | [CLR](CLR/Apple.clr?raw=1) | [ASE](ASE/Apple.ase?raw=1) | [ACO](ACO/Apple.aco?raw=1) |
 | Colors of Japan | [CLR](CLR/Colors%20of%20Japan.clr?raw=1) | [ASE](ASE/Colors%20of%20Japan.ase?raw=1) | [ACO](ACO/Colors%20of%20Japan.aco?raw=1) |
+| Open Color | [CLR](CLR/Open%20Color.clr?raw=1) | [ASE](ASE/Open%20Color.ase?raw=1) | [ACO](ACO/Open%20Color.aco?raw=1) |
 
 ### About
 
