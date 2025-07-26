@@ -1,9 +1,10 @@
-#!/usr/bin/env python3
+#!/usr/bin/python3
 
 import argparse
 import colorsys
 import math
 from typing import Tuple
+import os
 import json
 import functools
 import objc
@@ -24,7 +25,7 @@ def hsl_to_rgb(hsl_color):
     return tuple(round(i * 255) for i in colorsys.hls_to_rgb(h / 360, l / 100, s / 100))
 
 def convert_to_hex(color):
-    return "#{:02X}{:02X}{:02X}".format(int(color[0]), int(color[1]), int(color[2]))
+    return f"#{color[0]:02X}{color[1]:02X}{color[2]:02X}"
 
 def convert_to_hsl(color):
     r_scaled, g_scaled, b_scaled = color[0] / 255.0, color[1] / 255.0, color[2] / 255.0
@@ -49,7 +50,7 @@ def format_color(color, color_format):
 
 def parse_input_color(color_str):
     color_str = color_str.strip()
-    if color_str.startswith("#"):
+    if color_str.startswith('#'):
         return hex_to_rgb(color_str)
     elif color_str.lower().startswith("rgb"):
         color_str = color_str[color_str.find("(")+1:color_str.find(")")].strip()
@@ -191,7 +192,7 @@ def parse_input_line(line: str) -> Tuple[Tuple[int, int, int], str]:
     try:
         color = parse_input_color(color_str)
     except ValueError as e:
-        raise ValueError(f"Error parsing color '{color_str}': {str(e)}")
+        raise ValueError(f"Error parsing color '{color_str}': {e}")
 
     return color, name
 
@@ -213,75 +214,59 @@ def convert_colors(args):
                 f.write(f'{color} {name}\n')
 
 def pack_colors_clr(args):
-    input_file = args.input_file
-    output_file = args.output_file
-
-    with open(input_file, 'r') as file:
-        contents = file.read()
-
-    colors = []
-    if contents[0] == "{":
-        colors = json.loads(contents)
-        colors = [{"name": k, "color": v} for k, v in colors.items()]
+    mapping = {}
+    text = open(args.input_file, 'r', encoding='utf-8').read()
+    if text.lstrip().startswith('{'):
+        obj = json.loads(text)
+        mapping = {name: val for name, val in obj.items()}
     else:
-        lines = contents.split("\n")
-        for line in lines:
-            if line.strip():
-                match = line.split(maxsplit=1)
-                if len(match) == 2:
-                    colors.append({"name": match[1], "color": match[0]})
+        for line in text.splitlines():
+            if not line.strip(): continue
+            rgb, name = parse_input_line(line)
+            mapping[name] = "{:02X}{:02X}{:02X}".format(*rgb)
 
-    for color in colors:
-        if color["color"].startswith("#"):
-            color["color"] = color["color"][1:]
-        if len(color["color"]) < 6:
-            color["color"] = ''.join([c*2 for c in color["color"]])
-        color["color"] += 'ff'
-        r, g, b, a = [int(color["color"][i:i+2], 16) / 255 for i in range(0, 8, 2)]
-        color["nscolor"] = (r, g, b, a)
+    base = os.path.splitext(os.path.basename(args.output_file))[0]
+    nsclr = NSColorList.alloc().initWithName_(base)
 
-    nsclrlist = NSColorList.alloc().initWithName_(output_file.split('/')[-1].split('.')[0])
-    for i, color in enumerate(colors):
-        nscolor = NSColor.colorWithCalibratedRed_green_blue_alpha_(*color["nscolor"])
-        nsclrlist.insertColor_key_atIndex_(nscolor, color["name"], i)
-    nsclrlist.writeToFile_(output_file)
+    for idx, (name, hex6) in enumerate(mapping.items()):
+        h = hex6.lstrip('#')
+        if len(h) < 6:
+            h = ''.join(c*2 for c in h)
+        r, g, b = [int(h[i:i+2], 16)/255.0 for i in (0,2,4)]
+        ns = NSColor.colorWithCalibratedRed_green_blue_alpha_(r, g, b, 1.0)
+        nsclr.insertColor_key_atIndex_(ns, name, idx)
+
+    nsclr.writeToFile_(args.output_file)
+    print(f".clr file written to {args.output_file}")
 
 def unpack_colors_clr(args):
-    input_file = args.input_file
-    output_format = args.format
-    output_file = args.output_file
-
-    colors = []
-    
-    original_stderr = sys.stderr
-    sys.stderr = io.StringIO()
-    
+    base = os.path.splitext(os.path.basename(args.input_file))[0]
     try:
-        nsclrlist = NSColorList.alloc().initWithName_fromFile_(input_file.split('/')[-1].split('.')[0], input_file)
-        
-        for key in nsclrlist.allKeys():
-            nscolor = nsclrlist.colorWithKey_(key)
-            r, g, b, a = nscolor.redComponent(), nscolor.greenComponent(), nscolor.blueComponent(), nscolor.alphaComponent()
-            color = (int(r * 255), int(g * 255), int(b * 255))
-            colors.append((color, key))
+        nsclr = NSColorList.alloc().initWithName_fromFile_(base, args.input_file)
     except Exception as e:
-        print(f"Error: Unable to read the CLR file. {str(e)}")
-    finally:
-        sys.stderr = original_stderr
+        print(f"Error: Unable to read CLR. {e}")
+        return
 
-    if not colors:
+    extracted = []
+    for key in nsclr.allKeys():
+        c = nsclr.colorWithKey_(key)
+        r = int(c.redComponent()   * 255)
+        g = int(c.greenComponent() * 255)
+        b = int(c.blueComponent()  * 255)
+        extracted.append(((r, g, b), key))
+
+    if not extracted:
         print("No colors were extracted from the file.")
-    else:
-        formatted_colors_with_names = [(format_color(color, output_format), name) for color, name in colors]
-        for color, name in formatted_colors_with_names:
-            print(f"{color} {name}")
+        return
 
-        if output_file:
-            with open(output_file, 'w', encoding='utf-8') as f:
-                for color, name in formatted_colors_with_names:
-                    clean_name = ''.join(c for c in name if c.isprintable())
-                    f.write(f'{color} {clean_name}\n')
-            print(f"Colors have been written to {output_file}")
+    formatted = [(format_color(rgb, args.format), name) for rgb, name in extracted]
+    for col, name in formatted:
+        print(f"{col} {name}")
+    if args.output_file:
+        with open(args.output_file, 'w', encoding='utf-8') as f:
+            for col, name in formatted:
+                f.write(f"{col} {name}\n")
+        print(f"Colors written to {args.output_file}")
 
 def pack_colors_aco(args):
     """Packs colors into a `.aco` file (version 2 only).
@@ -301,7 +286,6 @@ def pack_colors_aco(args):
     def write_string(fp, string):
         encoded = string.encode('utf-16-be')
         fp.write(encoded)
-        # Write the null terminator (2 bytes)
         fp.write(b'\x00\x00')
 
     colors = []
@@ -312,31 +296,22 @@ def pack_colors_aco(args):
                 colors.append((color, name))
 
     with open(output_file, 'wb') as fp:
-        # Write version 1 header
         write_word(fp, 1)
         write_word(fp, len(colors))
         for color, _ in colors:
-            # Color space (0 for RGB)
             write_word(fp, 0)
-            # RGB values (multiply by 257 to convert 8-bit to 16-bit)
             for component in color:
                 write_word(fp, component * 257)
-            # Padding
             write_word(fp, 0)
 
-        # Write version 2 header
         write_word(fp, 2)
         write_word(fp, len(colors))
         for color, name in colors:
-            # Color space (0 for RGB)
             write_word(fp, 0)
-            # RGB values (multiply by 257 to convert 8-bit to 16-bit)
             for component in color:
                 write_word(fp, component * 257)
-            # Padding
             write_word(fp, 0)
-            # Name
-            write_dword(fp, len(name) + 1)  # +1 for null terminator
+            write_dword(fp, len(name) + 1)
             write_string(fp, name)
 
     print(f"ACO file has been written to {output_file}")
@@ -373,7 +348,7 @@ def unpack_colors_aco(args):
         return hex_value.zfill(2)
 
     def rgb_to_hex(r, g, b):
-        return f"#{component_to_hex(r)}{component_to_hex(g)}{component_to_hex(b)}"
+        return f"{r:02X}{g:02X}{b:02X}"
 
     def convert_color(fp, ver):
         cspace = must_read_word(fp)
@@ -476,20 +451,19 @@ def pack_colors_ase(args):
 
                 title = color[1].encode('utf-16be') + b'\x00\x00'
                 buffer = struct.pack(">H", len(title) // 2)
-                buffer = struct.pack(">H", len(title) // 2)  # Length of the title
-                buffer += title  # Title
+                buffer = struct.pack(">H", len(title) // 2)
+                buffer += title
 
-                # Colors
                 r, g, b = [int(color[0][i:i+2], 16) / 255 for i in (0, 2, 4)]
                 buffer += b"RGB "
                 buffer += struct.pack(">fff", r, g, b)
-                buffer += struct.pack(">H", 0)  # Color type - 0x00 "Global"
+                buffer += struct.pack(">H", 0)
 
-                output.write(struct.pack(">I", len(buffer)))  # Length of this block
+                output.write(struct.pack(">I", len(buffer)))
                 output.write(buffer)
 
-            output.write(struct.pack(">H", 0xC002))  # Group end
-            output.write(struct.pack(">I", 0))  # Length of "Group end" block, which is 0
+            output.write(struct.pack(">H", 0xC002))
+            output.write(struct.pack(">I", 0))
 
         return output.getvalue()
 
@@ -500,7 +474,6 @@ def pack_colors_ase(args):
         with open(input_file, 'r') as file:
             colors = [parse_input_line(line.strip()) for line in file if line.strip()]
 
-        # Create a single palette with all colors
         palette = {
             "title": "Color Palette",
             "colors": [(convert_to_hex(color)[1:], name or f"Color {i+1}") for i, (color, name) in enumerate(colors)]
@@ -551,11 +524,11 @@ def unpack_colors_ase(args):
             block_length = struct.unpack(">I", ase_data[offset:offset + 4])[0]
             offset += 4
 
-            if block_type == 0xC001:  # Group start
+            if block_type == 0xC001:
                 group_name, offset = read_ase_string(ase_data, offset)
-            elif block_type == 0xC002:  # Group end
+            elif block_type == 0xC002:
                 continue
-            elif block_type == 1:  # Color entry
+            elif block_type == 1:
                 color_name, offset = read_ase_string(ase_data, offset)
                 color_model = ase_data[offset:offset + 4].decode('ascii')
                 offset += 4
@@ -568,7 +541,7 @@ def unpack_colors_ase(args):
                     offset += block_length - 4 - len(color_name) * 2 - 2
 
                 colors.append((color, color_name))
-                offset += 2  # Skip the color type (2 bytes)
+                offset += 2
 
         formatted_colors_with_names = [(format_color(color, output_format), name) for color, name in colors]
         for color, name in formatted_colors_with_names:
