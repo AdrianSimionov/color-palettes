@@ -6,6 +6,13 @@
 | Apple | [CLR](CLR/Apple.clr?raw=1) | [ASE](ASE/Apple.ase?raw=1) | [ACO](ACO/Apple.aco?raw=1) |
 | Colors of Japan | [CLR](CLR/Colors%20of%20Japan.clr?raw=1) | [ASE](ASE/Colors%20of%20Japan.ase?raw=1) | [ACO](ACO/Colors%20of%20Japan.aco?raw=1) |
 | Open Color | [CLR](CLR/Open%20Color.clr?raw=1) | [ASE](ASE/Open%20Color.ase?raw=1) | [ACO](ACO/Open%20Color.aco?raw=1) |
+| Material | [CLR](CLR/Material.clr?raw=1) | [ASE](ASE/Material.ase?raw=1) | [ACO](ACO/Material.aco?raw=1) |
+| FlatUI | [CLR](CLR/FlatUI.clr?raw=1) | [ASE](ASE/FlatUI.ase?raw=1) | [ACO](ACO/FlatUI.aco?raw=1) |
+| Social | [CLR](CLR/Social.clr?raw=1) | [ASE](ASE/Social.ase?raw=1) | [ACO](ACO/Social.aco?raw=1) |
+| Metro | [CLR](CLR/Metro.clr?raw=1) | [ASE](ASE/Metro.ase?raw=1) | [ACO](ACO/Metro.aco?raw=1) |
+| HTML | [CLR](CLR/HTML.clr?raw=1) | [ASE](ASE/HTML.ase?raw=1) | [ACO](ACO/HTML.aco?raw=1) |
+| Fluent | [CLR](CLR/Fluent.clr?raw=1) | [ASE](ASE/Fluent.ase?raw=1) | [ACO](ACO/Fluent.aco?raw=1) |
+| Tailwind | [CLR](CLR/Tailwind.clr?raw=1) | [ASE](ASE/Tailwind.ase?raw=1) | [ACO](ACO/Tailwind.aco?raw=1) |
 
 ### About
 
