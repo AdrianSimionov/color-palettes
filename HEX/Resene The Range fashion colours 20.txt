@@ -1,0 +1,175 @@
+#E1752F Resene Adrenalin O64-179-050
+#F5F4F1 Resene Alabaster N96-006-099
+#C1CBDA Resene Alaska B81-021-266
+#6E8183 Resene Artemis B53-017-208
+#9E8975 Resene Artisan BR58-034-071
+#335252 Resene Atlas G33-028-195
+#514142 Resene Aubergine BR28-018-018
+#D6DBC2 Resene Aura G86-031-117
+#609472 Resene Away We Go G57-066-153
+#7C543F Resene Barnstorm BR40-055-054
+#8D7F6F Resene Beaten Track BR55-026-075
+#344B69 Resene Bewitched B31-047-271
+#DB8293 Resene BFF R64-086-009
+#B56A39 Resene Bi Hoki O52-109-057
+#5A838E Resene Bismark B53-034-224
+#EBE9E5 Resene Black White N93-005-100
+#A3D3E4 Resene Bluetooth B82-042-230
+#BFB394 Resene Bubble N Squeak G73-041-093
+#C34249 Resene Candy Floss R46-132-022
+#69453C Resene Cedar WW600
+#383838 Resene Charcoal N24-000-318
+#FED77E Resene Chorus Line Y88-114-087
+#D79A32 Resene Cleopatra Y69-144-078
+#D27335 Resene Clockwork Orange O59-135-056
+#4B5963 Resene Coast B35-023-248
+#9B3A43 Resene Code Red R38-101-021
+#8D7F76 Resene Coffee Break BR54-018-061
+#AB9579 Resene Colins Wicket BR63-043-079
+#644244 Resene Courage R32-034-017
+#E0C8AB Resene Crowdpleaser Y82-041-076
+#CEB6A1 Resene Dapper BR76-035-070
+#E65E38 Resene Daredevil O57-163-043
+#494642 Resene Dark Web N30-006-069
+#E6D4C6 Resene Despacito O86-023-066
+#F4F3EF Resene Double Alabaster N95-004-106
+#B9B3A7 Resene Double Ash G72-016-092
+#8C8276 Resene Double Pravda BR55-019-078
+#D9D8E5 Resene Dreamtime V87-017-292
+#C4CBC8 Resene Duck Egg Blue N81-007-166
+#8E4541 Resene Dynamite R37-085-029
+#8F8271 Resene Earthen BR55-027-080
+#676566 Resene Eighth Bokara Grey N43-002-347
+#CFC8C0 Resene Eighth Stonewashed Y81-011-072
+#F7F4EC Resene Elderflower G96-009-093
+#0080B9 Resene Endeavour B48-102-250
+#E2D2CE Resene Ethereal R85-015-038
+#7C8C9B Resene Excalibur B58-023-255
+#615C59 Resene Extraterrestrial M40-007-072
+#7B5083 Resene Eye Candy V42-081-321
+#3B4F49 Resene Family Tree G32-022-174
+#445E66 Resene Fast Forward B38-025-225
+#6AA43B Resene FOMO G62-140-128
+#75C9BC Resene Freelance G75-066-183
+#5E7472 Resene Green Meets Blue G47-020-192
+#B3B281 Resene Green Smoke G71-064-106
+#A7A69F Resene Grey Area N68-008-101
+#B4AA97 Resene Grey Olive Y70-027-089
+#C0C0BF Resene Grey Seal N78-001-099
+#F0EFEC Resene Half Black White N94-004-096
+#CFD5D3 Resene Half Duck Egg Blue N85-005-175
+#B5BEC2 Resene Half Dusted Blue B77-009-229
+#97414D Resene Half Pohutukawa R39-088-019
+#ECE3D5 Resene Half Spanish White Y91-020-082
+#D9D2C7 Resene Half Tea Y85-015-083
+#777899 Resene Harmony V53-044-293
+#D04435 Resene Havoc R49-160-036
+#A9ADA6 Resene Helix G70-010-132
+#E6B824 Resene Hive Y77-174-086
+#F7B11E Resene I Dare You Y77-179-079
+#3A414C Resene Indian Ink B26-017-270
+#B68F39 Resene Influential Y61-127-083
+#6D655C Resene Iroko WD005
+#BE4D6D Resene Irresistible R48-118-006
+#DB7645 Resene Jailbreak O60-131-051
+#A43738 Resene Jalapeno R37-114-026
+#D29988 Resene Just Dance O68-060-043
+#CFDDC9 Resene Kandinsky G87-027-134
+#4C4C46 Resene Karaka G31-010-106
+#404A5F Resene King Tide B32-032-275
+#AFB634 Resene Kryptonite G71-149-107
+#799AAA Resene Lazy River B62-033-238
+#567282 Resene Liberty B47-031-243
+#8D4F62 Resene Love Me Do R41-066-001
+#603F5B Resene Machiavelli V31-052-330
+#C7E6E2 Resene Meditation G89-025-189
+#84849A Resene Memory Lane V56-030-292
+#E8E4DE Resene Merino Y91-009-076
+#0090BA Resene Moana B55-087-238
+#99BCC7 Resene Moby B75-030-221
+#9C5C48 Resene Moccasin O46-077-043
+#F2E2C1 Resene Moonlight Y90-041-089
+#536B60 Resene Mother Nature G43-028-163
+#C6C1CE Resene Mozart V76-032-314
+#C2D7DB Resene Mystery B85-018-214
+#B6AB9D Resene Napa Y70-020-082
+#AF7F4F Resene Natural WD026
+#827C59 Resene New Leaf G52-047-100
+#444547 Resene Noir N29-003-250
+#A6B79C Resene Nourish G72-037-133
+#ED7E43 Resene Party Zone O64-147-053
+#A4A99B Resene Peace G69-020-124
+#4B6256 Resene Permanent Green G37-031-154
+#B5508A Resene Pink Ribbon V49-114-345
+#403E3C Resene Pitch Black WD039
+#893C3F Resene Pohutukawa R36-087-023
+#B23935 Resene Poppy R43-133-032
+#4C4C4B Resene Porter N32-001-088
+#EEEEED Resene Poured Milk N94-001-128
+#4A4054 Resene Purple Rain V29-033-310
+#7E8184 Resene Quarter Baltic Sea N54-005-257
+#5B595A Resene Quarter Bokara Grey N38-002-331
+#F2EBE0 Resene Quarter Spanish White Y93-015-083
+#E2DDD6 Resene Quarter Tea Y89-010-084
+#A24F40 Resene Raging Bull R42-095-035
+#A7BEC3 Resene Raindance B75-020-220
+#5F4D4A Resene Rebel BR34-020-035
+#A95651 Resene Red Herring R47-089-029
+#C6CED4 Resene Remember Me B82-009-243
+#7A88AF Resene Reverie B57-053-280
+#EFEBE3 Resene Rice Cake G94-010-092
+#727B6D Resene Rivergum G47-022-138
+#CA4241 Resene Roadster R46-145-029
+#6F6868 Resene Rocky Mountain N45-007-016
+#CBB67D Resene Rococo G75-076-091
+#C09E84 Resene Rose Gold M67-047-064
+#815A4C Resene Route 66 BR42-048-045
+#644F5E Resene RSVP V36-032-331
+#51616B Resene Safehaven B40-020-243
+#813D3F Resene Salsa R36-080-023
+#584A42 Resene Sambuca BR32-018-058
+#754C46 Resene Scoria R36-049-033
+#E9E7E3 Resene Sea Fog N92-005-100
+#D3D3C9 Resene Secrets G84-013-114
+#D8BDAC Resene Shabby Chic BR79-033-061
+#02909D Resene She'll Be Right B54-073-210
+#E9BEB4 Resene Shilo R80-040-039
+#B9BAB8 Resene Silver Chalice N76-003-139
+#908689 Resene Sixth Sense BR57-009-002
+#CDD8D8 Resene Slipstream G85-009-200
+#CA6B9E Resene Smitten V58-106-347
+#D0C7AE Resene Smoothie G80-032-094
+#613D3F Resene Smoulder R30-040-019
+#ECC8BC Resene Sorbet O83-036-046
+#E9C5B3 Resene Soulful O82-040-054
+#A1968C Resene Stonewashed BR61-017-070
+#2A5786 Resene Submerge B36-073-272
+#56544F Resene Suits N36-008-096
+#B46A50 Resene Sunbaked O52-089-045
+#AE7A47 Resene Swiss Caramel O55-090-068
+#998376 Resene Tablelands BR56-028-058
+#DEAC59 Resene Thumbs Up Y73-115-079
+#62574F Resene Thunder Road BR38-016-063
+#748599 Resene Time After Time B55-030-264
+#555250 Resene Tiri WW0811
+#06B3E0 Resene Tomorrow B68-093-237
+#ADB4B1 Resene Triple Duck Egg Blue G73-008-166
+#FFC80B Resene Turbo Y84-198-087
+#44484D Resene Twilight Zone B31-008-259
+#C87D39 Resene Twisted Sister O59-124-064
+#6F7145 Resene Untamed G43-064-103
+#AAC1BB Resene Unwind G76-021-178
+#43538A Resene Valour V37-079-287
+#76505A Resene Virtuoso R38-041-001
+#6A6750 Resene Waiouru G43-033-103
+#00679F Resene Wet N Wild B49-089-260
+#C0C3D5 Resene Whimsical B79-022-284
+#D9DEDB Resene White Island N88-006-157
+#E1DDD7 Resene White Pointer N89-007-087
+#DBCBB8 Resene Whitewash
+#FFD260 Resene Wild Thing Y87-145-086
+#2F536C Resene Wishing Well B34-045-255
+#D88BA9 Resene XOXO V67-072-354
+#73C7CB Resene Yes Please G75-062-202
+#007C77 Resene Yowza G46-082-190
+#D6C49D Resene Yuma Y80-052-088

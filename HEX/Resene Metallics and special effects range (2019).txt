@@ -1,0 +1,44 @@
+#B9C1C2 Resene Allusive M74-008-201
+#ABA9A5 Resene Aluminium M71-005-087
+#767272 Resene Basalt M43-005-325
+#B46886 Resene Bedazzle M54-081-355
+#C7BEB4 Resene Bedrock M77-016-085
+#5E5B57 Resene Blast Grey 1 M34-004-071
+#797571 Resene Blast Grey 2 M44-006-075
+#9C9895 Resene Blast Grey 3 M55-002-072
+#9C785F Resene Blast Yellow M48-058-063
+#CB9768 Resene Bullion M67-080-068
+#5F5E5B Resene Catch 22 M35-004-106
+#BD836F Resene Copper Fire M57-064-045
+#916F67 Resene Copperhead M47-038-039
+#5D7583 Resene Dalek M46-028-246
+#827E79 Resene Deep Space M51-009-077
+#53607E Resene Digital Blue M40-046-279
+#B87598 Resene Enchanted M60-078-344
+#7A6EA6 Resene Funtasia M48-091-301
+#937B7E Resene Galaxy M50-027-007
+#B8565E Resene Glitterbug M50-100-022
+#93B474 Resene Go Go Go M73-080-131
+#C5B184 Resene Gold M70-060-089
+#C0A077 Resene Gold Dust M69-066-078
+#C6A88F Resene Goldmine M68-046-067
+#A4AFB1 Resene Infinity M67-010-213
+#695E62 Resene Light Year M34-014-338
+#4A7A87 Resene Lucifer M40-037-226
+#B38160 Resene Magma M59-074-060
+#7C7F73 Resene Magnetic M46-016-114
+#95A8A8 Resene Obelisk M64-015-199
+#637471 Resene Pioneer M46-015-178
+#BDBBB1 Resene Proton M80-013-107
+#9C9589 Resene Pure Pewter M60-015-085
+#C09E84 Resene Rose Gold M67-047-064
+#A9C1CF Resene Scotty Silver M76-026-239
+#D0D1D0 Resene Silver Aluminium M83-003-232
+#9D9C9C Resene Silver Steel M67-001-338
+#8C7462 Resene Spark M45-033-062
+#58697E Resene Sputnik M37-031-265
+#C7C6AB Resene Stun M78-034-108
+#B68BAA Resene Sugar And Spice M67-062-336
+#5A7EA1 Resene Time Warp M49-055-264
+#09A8CB Resene Yeehaa M59-082-236
+#3E7FB1 Resene Zoop De Loop M52-085-267

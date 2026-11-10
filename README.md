@@ -6,6 +6,20 @@
 | Apple | [CLR](CLR/Apple.clr?raw=1) | [ASE](ASE/Apple.ase?raw=1) | [ACO](ACO/Apple.aco?raw=1) |
 | Colors of Japan | [CLR](CLR/Colors%20of%20Japan.clr?raw=1) | [ASE](ASE/Colors%20of%20Japan.ase?raw=1) | [ACO](ACO/Colors%20of%20Japan.aco?raw=1) |
 | Open Color | [CLR](CLR/Open%20Color.clr?raw=1) | [ASE](ASE/Open%20Color.ase?raw=1) | [ACO](ACO/Open%20Color.aco?raw=1) |
+| Resene BS5252 range (2008) | [CLR](CLR/Resene%20BS5252%20range%20%282008%29.clr?raw=1) | [ASE](ASE/Resene%20BS5252%20range%20%282008%29.ase?raw=1) | [ACO](ACO/Resene%20BS5252%20range%20%282008%29.aco?raw=1) |
+| Resene Classics Collection (2021) | [CLR](CLR/Resene%20Classics%20Collection%20%282021%29.clr?raw=1) | [ASE](ASE/Resene%20Classics%20Collection%20%282021%29.ase?raw=1) | [ACO](ACO/Resene%20Classics%20Collection%20%282021%29.aco?raw=1) |
+| Resene Colorwood interior wood stains range (2011) | [CLR](CLR/Resene%20Colorwood%20interior%20wood%20stains%20range%20%282011%29.clr?raw=1) | [ASE](ASE/Resene%20Colorwood%20interior%20wood%20stains%20range%20%282011%29.ase?raw=1) | [ACO](ACO/Resene%20Colorwood%20interior%20wood%20stains%20range%20%282011%29.aco?raw=1) |
+| Resene Decks driveways range (2014) | [CLR](CLR/Resene%20Decks%20driveways%20range%20%282014%29.clr?raw=1) | [ASE](ASE/Resene%20Decks%20driveways%20range%20%282014%29.ase?raw=1) | [ACO](ACO/Resene%20Decks%20driveways%20range%20%282014%29.aco?raw=1) |
+| Resene Heritage range (2015) | [CLR](CLR/Resene%20Heritage%20range%20%282015%29.clr?raw=1) | [ASE](ASE/Resene%20Heritage%20range%20%282015%29.ase?raw=1) | [ACO](ACO/Resene%20Heritage%20range%20%282015%29.aco?raw=1) |
+| Resene Karen Walker range 5 | [CLR](CLR/Resene%20Karen%20Walker%20range%205.clr?raw=1) | [ASE](ASE/Resene%20Karen%20Walker%20range%205.ase?raw=1) | [ACO](ACO/Resene%20Karen%20Walker%20range%205.aco?raw=1) |
+| Resene KidzColour range (2015) | [CLR](CLR/Resene%20KidzColour%20range%20%282015%29.clr?raw=1) | [ASE](ASE/Resene%20KidzColour%20range%20%282015%29.ase?raw=1) | [ACO](ACO/Resene%20KidzColour%20range%20%282015%29.aco?raw=1) |
+| Resene Metallics and special effects range (2019) | [CLR](CLR/Resene%20Metallics%20and%20special%20effects%20range%20%282019%29.clr?raw=1) | [ASE](ASE/Resene%20Metallics%20and%20special%20effects%20range%20%282019%29.ase?raw=1) | [ACO](ACO/Resene%20Metallics%20and%20special%20effects%20range%20%282019%29.aco?raw=1) |
+| Resene Multi-finish range (2016) | [CLR](CLR/Resene%20Multi-finish%20range%20%282016%29.clr?raw=1) | [ASE](ASE/Resene%20Multi-finish%20range%20%282016%29.ase?raw=1) | [ACO](ACO/Resene%20Multi-finish%20range%20%282016%29.aco?raw=1) |
+| Resene The Range fashion colours 20 | [CLR](CLR/Resene%20The%20Range%20fashion%20colours%2020.clr?raw=1) | [ASE](ASE/Resene%20The%20Range%20fashion%20colours%2020.ase?raw=1) | [ACO](ACO/Resene%20The%20Range%20fashion%20colours%2020.aco?raw=1) |
+| Resene The Range fashion colours 24 | [CLR](CLR/Resene%20The%20Range%20fashion%20colours%2024.clr?raw=1) | [ASE](ASE/Resene%20The%20Range%20fashion%20colours%2024.ase?raw=1) | [ACO](ACO/Resene%20The%20Range%20fashion%20colours%2024.aco?raw=1) |
+| Resene The Range whites & neutrals (2021) | [CLR](CLR/Resene%20The%20Range%20whites%20%26%20neutrals%20%282021%29.clr?raw=1) | [ASE](ASE/Resene%20The%20Range%20whites%20%26%20neutrals%20%282021%29.ase?raw=1) | [ACO](ACO/Resene%20The%20Range%20whites%20%26%20neutrals%20%282021%29.aco?raw=1) |
+| Resene Total Colour System Master 2021 | [CLR](CLR/Resene%20Total%20Colour%20System%20Master%202021.clr?raw=1) | [ASE](ASE/Resene%20Total%20Colour%20System%20Master%202021.ase?raw=1) | [ACO](ACO/Resene%20Total%20Colour%20System%20Master%202021.aco?raw=1) |
+| Resene Woodsman exterior wood stains range (2015) | [CLR](CLR/Resene%20Woodsman%20exterior%20wood%20stains%20range%20%282015%29.clr?raw=1) | [ASE](ASE/Resene%20Woodsman%20exterior%20wood%20stains%20range%20%282015%29.ase?raw=1) | [ACO](ACO/Resene%20Woodsman%20exterior%20wood%20stains%20range%20%282015%29.aco?raw=1) |
 
 ### About
 

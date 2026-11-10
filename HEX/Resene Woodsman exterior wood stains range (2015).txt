@@ -1,0 +1,48 @@
+#44413D Resene Banjul WD004
+#665345 Resene Bark WW0810
+#51575A Resene Bleached Cedar WW400
+#958D85 Resene Bleached Riverstone WW0820
+#4D433F Resene Bushtrack WW0812
+#45443E Resene Canopy WW0819
+#69453C Resene Cedar WW600
+#64433F Resene Cherrywood WD020
+#6D634C Resene Crowshead WD001
+#805C49 Resene Dark Oak WW7
+#9E7D5B Resene Driftwood WD012
+#425B49 Resene Earthsong WW0818
+#735F48 Resene English Walnut WW8
+#847C71 Resene Equilibrium WW0816
+#3D4D46 Resene Evergreen WW0813
+#575947 Resene Grey Green WW9
+#B27145 Resene Heartwood WW0809
+#6D655C Resene Iroko WD005
+#433D44 Resene Jacaranda WD019
+#7B433F Resene Japanese Maple WD017
+#63433F Resene Jarrah Tree WW0804
+#67443E Resene Kwila WW0803
+#727875 Resene Limed Ash WW11
+#77664F Resene Limed Gum WW12
+#A58165 Resene Limed Oak WW13
+#AF7F46 Resene Natural WD026
+#785743 Resene Nutmeg WW16
+#72463B Resene Oiled Cedar WD028
+#80624F Resene Pickled Bean WW18
+#5C686D Resene Pickled Bluewood WW19
+#403E3C Resene Pitch Black WD039
+#4C5645 Resene Rangitoto WD032
+#837D76 Resene Riverstone WW0805
+#434140 Resene Shadow Match WW0808
+#494543 Resene Sheer Black WW0801
+#6E747A Resene Silvered Grey WW0802
+#4C5662 Resene Skywater WW0807
+#7A736B Resene Smokey Ash WW22
+#5E4745 Resene Tamarind WD006
+#5D4F3F Resene Timberland WW0815
+#555250 Resene Tiri WW0811
+#9F463A Resene Totem Pole WD035
+#756348 Resene Touch Wood WD036
+#52463E Resene Treehouse WD037
+#C2A580 Resene Uluru WW0814
+#854D3D Resene Warm Kwila WW0817
+#DBCBB8 Resene Whitewash
+#404349 Resene Woody Bay WD038

@@ -1,0 +1,55 @@
+#94A88B Resene Amulet G68-043-134
+#94AFBB Resene Bali Hai B70-024-230
+#384454 Resene Blue Night B28-028-267
+#DEBE9B Resene Bowman BR79-054-075
+#BF3F34 Resene Bright Red R44-148-034
+#5A453F Resene Brown Pod BR30-029-042
+#C39E74 Resene Buff Y68-067-073
+#84534D Resene Burnt Sienna R40-059-030
+#564B43 Resene Burnt Umber BR31-023-061
+#E6D09D Resene Butter Y84-069-089
+#795642 Resene Carnaby Tan BR40-050-056
+#EFD3B1 Resene Chamois Y86-052-079
+#345D81 Resene Cobalt B39-058-260
+#EFDDBE Resene Colonial White Y89-043-083
+#AA7067 Resene Copper Rust R53-061-032
+#5AA0CD Resene Danube B64-073-252
+#AF7D57 Resene Dark Buff O57-078-063
+#5E4244 Resene Dark Crimson R30-032-016
+#464C44 Resene Earth Green G29-016-121
+#9FB4A4 Resene Envy G71-028-149
+#C8BF9F Resene Fawn Green G78-042-095
+#DBB69C Resene Flesh BR78-049-063
+#DC9D83 Resene Florentine Pink O69-075-049
+#607856 Resene Green House G48-055-134
+#CCC8AA Resene Green Mist G80-038-104
+#634A45 Resene Hinau R33-029-036
+#704941 Resene Hukanui R35-047-039
+#3E4D47 Resene Ivy Green G31-020-167
+#356850 Resene Kaitoke Green G38-056-160
+#824D41 Resene Kakaramea R38-065-037
+#7B5348 Resene Komakorau BR39-049-041
+#E8CA9E Resene Light Beige Y83-063-082
+#C68258 Resene Light Tan O60-096-058
+#644440 Resene Mahogany R30-038-026
+#E8E4DE Resene Merino Y91-009-076
+#684F44 Resene Milk Chocolate BR34-034-049
+#D6B693 Resene Muka Y76-055-073
+#6A413D Resene Nelson Red R32-050-029
+#8F6747 Resene Oak O47-066-064
+#53584A Resene Olive Green G35-023-122
+#FFDAB5 Resene Rich Cream Y90-057-073
+#E3CBB2 Resene Sand Y84-040-077
+#59594B Resene Scrub G37-020-109
+#927D72 Resene Slate Brown BR53-028-056
+#EDE7E1 Resene Soapstone N93-008-081
+#CBD1B2 Resene Soft Apple G83-040-117
+#E3F3EA Resene Soft Mint G95-016-159
+#FBD9CF Resene Soft Pink O89-032-044
+#999C9B Resene Stack N65-003-154
+#BB5E55 Resene Terracotta Pink R51-100-031
+#CEC3A6 Resene Thistle Y79-036-089
+#A97353 Resene Toffee O53-077-055
+#CA9E6D Resene Twine Y68-078-073
+#3F4040 Resene Uhi N27-001-174
+#9B674D Resene Waiwherowhero O47-070-052
