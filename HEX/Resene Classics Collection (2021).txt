@@ -1,75 +1,75 @@
-#F5F4F1 Resene Alabaster N96-006-099
-#9F9485 Resene Arrowtown Y61-022-084
-#C9C7B6 Resene Aspiring G80-023-101
-#E0CFBD Resene Biscotti Y84-026-074
-#EBE9E5 Resene Black White N93-005-100
-#E4DACF Resene Blanc Y88-015-078
-#CBD4DC Resene Breathless B84-011-257
-#C9D5D5 Resene Breeze G85-010-197
-#BF3F34 Resene Bright Red R44-148-034
-#B8A798 Resene Bronco BR70-026-074
-#5A453F Resene Brown Pod BR30-029-042
-#3C4F62 Resene Bunting B32-030-265
-#D6BE9F Resene Canterbury Clay BR78-045-078
-#6E6F6B Resene Chicago N49-005-116
-#4B5963 Resene Coast B35-023-248
-#8F8C83 Resene Cobblestone G58-012-097
-#D0E0E3 Resene Cut Glass B85-012-208
-#404C54 Resene Dark Knight B31-014-247
-#915745 Resene Desperado O43-074-043
-#847267 Resene Domino BR49-024-061
-#C4CBC8 Resene Duck Egg Blue N81-007-166
-#696764 Resene Dune N44-006-089
-#A5B0B3 Resene Dusted Blue B72-011-221
-#B9B7B1 Resene Dusted Grey N80-008-098
-#BEB8A8 Resene Eagle G75-021-093
-#98967E Resene Flax G61-033-104
-#505B4E Resene Forest Green G37-022-140
-#BDC0B1 Resene Green Spring G77-019-115
-#C8C4BB Resene Grey Nickel G80-011-093
-#B2BABD Resene Gull Grey N75-008-229
-#CFD5D3 Resene Half Duck Egg Blue N85-005-175
-#ECE3D5 Resene Half Spanish White Y91-020-082
-#D9D2C7 Resene Half Tea Y85-015-083
-#667180 Resene Hammerhead B48-023-268
-#B1B9B1 Resene Haven G74-014-143
-#3A414C Resene Indian Ink B26-017-270
-#9AA29F Resene Inside Back G66-009-165
-#9A9999 Resene Jumbo N64-001-095
-#4C4C46 Resene Karaka G31-010-106
-#E8E4DE Resene Merino Y91-009-076
-#424B47 Resene Midnight Moss G31-010-167
-#969FA9 Resene Neutral Bay B66-014-259
-#575F66 Resene New Denim Blue B39-012-250
-#DBDFD6 Resene Ottoman G89-013-129
-#858A78 Resene Paddock G56-028-117
-#40524C Resene Palm Green G34-023-164
-#CCBAA0 Resene Pavlova Y77-038-083
-#F2EADC Resene Pearl Lusta Y94-018-087
-#4B6256 Resene Permanent Green G37-031-154
-#8D4B40 Resene Pioneer Red R39-075-033
-#893C3F Resene Pohutukawa R36-087-023
-#B23935 Resene Poppy R43-133-032
-#DCBB8E Resene Putty Y78-066-079
-#DBDDDC Resene Quarter Duck Egg Blue N88-004-146
-#78554C Resene Redwood R38-041-036
-#8B949A Resene Regent Grey B62-011-233
-#EFEBE3 Resene Rice Cake G94-010-092
-#727B6D Resene Rivergum G47-022-138
-#584A42 Resene Sambuca BR32-018-058
-#818184 Resene Scarpa Flow N55-002-289
-#754C46 Resene Scoria R36-049-033
-#F7E9D4 Resene Scotch Mist Y94-027-087
-#E9E7E3 Resene Sea Fog N92-005-100
-#D3D3C9 Resene Secrets G84-013-114
-#AFA79F Resene Settlement BR70-014-075
-#4E5256 Resene Shark N34-007-264
-#CAC9C4 Resene Silver Sand N80-006-102
-#CFC3B1 Resene Sisal Y80-027-081
-#E4ECF5 Resene Solitude B94-011-264
-#D7C5C2 Resene Soothe BR81-014-041
-#959F91 Resene Spanish Green G64-021-136
-#DFD9CE Resene Thorndon Cream Y87-016-090
-#AA6F57 Resene Twizel O51-083-050
-#E1DDD7 Resene White Pointer N89-007-087
-#504843 Resene Wood Bark BR30-013-056
+#F5F4F1 Alabaster N96-006-099
+#9F9485 Arrowtown Y61-022-084
+#C9C7B6 Aspiring G80-023-101
+#E0CFBD Biscotti Y84-026-074
+#EBE9E5 Black White N93-005-100
+#E4DACF Blanc Y88-015-078
+#CBD4DC Breathless B84-011-257
+#C9D5D5 Breeze G85-010-197
+#BF3F34 Bright Red R44-148-034
+#B8A798 Bronco BR70-026-074
+#5A453F Brown Pod BR30-029-042
+#3C4F62 Bunting B32-030-265
+#D6BE9F Canterbury Clay BR78-045-078
+#6E6F6B Chicago N49-005-116
+#4B5963 Coast B35-023-248
+#8F8C83 Cobblestone G58-012-097
+#D0E0E3 Cut Glass B85-012-208
+#404C54 Dark Knight B31-014-247
+#915745 Desperado O43-074-043
+#847267 Domino BR49-024-061
+#C4CBC8 Duck Egg Blue N81-007-166
+#696764 Dune N44-006-089
+#A5B0B3 Dusted Blue B72-011-221
+#B9B7B1 Dusted Grey N80-008-098
+#BEB8A8 Eagle G75-021-093
+#98967E Flax G61-033-104
+#505B4E Forest Green G37-022-140
+#BDC0B1 Green Spring G77-019-115
+#C8C4BB Grey Nickel G80-011-093
+#B2BABD Gull Grey N75-008-229
+#CFD5D3 Half Duck Egg Blue N85-005-175
+#ECE3D5 Half Spanish White Y91-020-082
+#D9D2C7 Half Tea Y85-015-083
+#667180 Hammerhead B48-023-268
+#B1B9B1 Haven G74-014-143
+#3A414C Indian Ink B26-017-270
+#9AA29F Inside Back G66-009-165
+#9A9999 Jumbo N64-001-095
+#4C4C46 Karaka G31-010-106
+#E8E4DE Merino Y91-009-076
+#424B47 Midnight Moss G31-010-167
+#969FA9 Neutral Bay B66-014-259
+#575F66 New Denim Blue B39-012-250
+#DBDFD6 Ottoman G89-013-129
+#858A78 Paddock G56-028-117
+#40524C Palm Green G34-023-164
+#CCBAA0 Pavlova Y77-038-083
+#F2EADC Pearl Lusta Y94-018-087
+#4B6256 Permanent Green G37-031-154
+#8D4B40 Pioneer Red R39-075-033
+#893C3F Pohutukawa R36-087-023
+#B23935 Poppy R43-133-032
+#DCBB8E Putty Y78-066-079
+#DBDDDC Quarter Duck Egg Blue N88-004-146
+#78554C Redwood R38-041-036
+#8B949A Regent Grey B62-011-233
+#EFEBE3 Rice Cake G94-010-092
+#727B6D Rivergum G47-022-138
+#584A42 Sambuca BR32-018-058
+#818184 Scarpa Flow N55-002-289
+#754C46 Scoria R36-049-033
+#F7E9D4 Scotch Mist Y94-027-087
+#E9E7E3 Sea Fog N92-005-100
+#D3D3C9 Secrets G84-013-114
+#AFA79F Settlement BR70-014-075
+#4E5256 Shark N34-007-264
+#CAC9C4 Silver Sand N80-006-102
+#CFC3B1 Sisal Y80-027-081
+#E4ECF5 Solitude B94-011-264
+#D7C5C2 Soothe BR81-014-041
+#959F91 Spanish Green G64-021-136
+#DFD9CE Thorndon Cream Y87-016-090
+#AA6F57 Twizel O51-083-050
+#E1DDD7 White Pointer N89-007-087
+#504843 Wood Bark BR30-013-056

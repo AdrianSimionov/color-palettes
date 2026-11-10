@@ -1,175 +1,175 @@
-#FF752F Resene Adrenalin O64-179-050
-#F5F4F1 Resene Alabaster N96-006-099
-#354C76 Resene Aviator B33-064-279
-#3C3C3C Resene Black N24-000-098
-#42434E Resene Black Doris V28-016-289
-#EBE9E5 Resene Black White N93-005-100
-#643D4F Resene Blackberry V29-049-347
-#69453C Resene Cedar WW600
-#D27335 Resene Clockwork Orange O59-135-056
-#6D634C Resene Crowshead WD001
-#2F5B58 Resene Deep Teal G35-039-188
-#847267 Resene Domino BR49-024-061
-#F4F3EF Resene Double Alabaster N95-004-106
-#CE586F Resene Drop Dead Gorgeous R53-116-012
-#C4CBC8 Resene Duck Egg Blue N81-007-166
-#CFC0B2 Resene Foundation Y78-022-070
-#D7B73A Resene Funk G76-153-091
-#E86438 Resene Grenadier O58-156-046
-#F6F6F3 Resene Half Alabaster N97-003-099
-#F0EFEC Resene Half Black White N94-004-096
-#EFEDEA Resene Half Sea Fog N94-005-102
-#D9D2C7 Resene Half Tea Y85-015-083
-#FFD528 Resene Happy Y87-189-090
-#F7B11E Resene I Dare You Y77-179-079
-#3A414C Resene Indian Ink B26-017-270
-#E8E4DE Resene Merino Y91-009-076
-#AF7F46 Resene Natural WD026
-#D2CAA2 Resene Nirvana G81-050-099
-#A4928A Resene Otter BR62-021-052
-#8D4B40 Resene Pioneer Red R39-075-033
-#403E3C Resene Pitch Black WD039
-#893C3F Resene Pohutukawa R36-087-023
-#F3F3F0 Resene Quarter Black White N96-004-100
-#E2DDD6 Resene Quarter Tea Y89-010-084
-#5F4D4A Resene Rebel BR34-020-035
-#EFEBE3 Resene Rice Cake G94-010-092
-#CA4241 Resene Roadster R46-145-029
-#754C46 Resene Scoria R36-049-033
-#E9E7E3 Resene Sea Fog N92-005-100
-#51594B Resene Seaweed G38-025-121
-#724C77 Resene Showstopper V37-078-326
-#F1E2D1 Resene Solitaire Y90-023-077
-#B75441 Resene Thunderbird R47-117-038
-#555250 Resene Tiri WW0811
-#C27D5D Resene Tuscany O58-086-050
-#BBD941 Resene Wellywood G82-173-113
-#00679F Resene Wet N Wild B49-089-260
-#E1DDD7 Resene White Pointer N89-007-087
-#DBCBB8 Resene Whitewash -
-#E1D260 Resene Wild Thing Y87-145-086
-#614D41 Resene Allspice BR34-029-057
-#6A935D Resene Aloe Vera G57-081-136
-#BE9977 Resene Amaranth BR66-057-069
-#CD3D32 Resene Amped R48-159-035
-#E5EBEC Resene Aoraki N93-005-211
-#853E3B Resene Aroha R35-080-028
-#97473F Resene Arriba R40-090-032
-#DEC9AD Resene Athena Y82-039-079
-#D7A89A Resene Awaken BR73-048-042
-#BAAFA0 Resene Awaroa Bay Y72-021-082
-#879498 Resene Baring Head B60-012-225
-#3E4041 Resene Black Sand N27-002-245
-#317583 Resene Boost B45-051-220
-#565757 Resene Boris N37-001-189
-#40A888 Resene Boundless G62-090-169
-#3F464B Resene Carpe Noctem B29-011-252
-#E6A1B1 Resene Coconut Ice R73-064-005
-#BCD2DA Resene Comfortably Numb B83-020-230
-#D8C7C1 Resene Contented O82-017-048
-#A39E80 Resene Contour G65-039-101
-#9C9386 Resene Courtyard Y61-018-079
-#ACA79D Resene Credence Y69-013-086
-#DFD7C6 Resene Creme De La Creme G86-022-091
-#443F3D Resene Dark Chocolate N27-006-051
-#D29377 Resene Dawn Glow O66-074-050
-#FFC76F Resene Daylight Y84-122-078
-#AFBAB8 Resene Double Duck Egg Blue G75-010-186
-#A9C9DD Resene Dream Big B79-034-243
-#B0BAB3 Resene Eau De Nil G75-012-153
-#375161 Resene Epic B33-032-248
-#C6C1B2 Resene Epitome G78-019-096
-#5A6260 Resene Exactly G41-009-181
-#939985 Resene Field Day G62-026-120
-#E1CFA9 Resene Fluffy Duck Y84-050-089
-#4A5352 Resene Forty Six G35-009-188
-#B1B2B2 Resene Four Winds N72-001-181
-#A4D5D2 Resene Freewheeling G82-040-192
-#809549 Resene Good To Go G58-098-118
-#65596E Resene Grape Escape V40-032-313
-#84A99A Resene Green Acres G66-038-167
-#C0B781 Resene Green Days G74-068-100
-#93A2C4 Resene Heliotrope B67-045-277
-#B3AE9C Resene Hindsight G71-023-099
-#817C70 Resene Hollyford Track G52-017-093
-#78B9C2 Resene Idyllic B71-050-210
-#E7D589 Resene Illuminate G85-093-096
-#764145 Resene Incarnadine R34-057-019
-#8B9E98 Resene Infused G64-018-174
-#EAD7CF Resene Inspire O87-019-048
-#444648 Resene Invincible N30-003-253
-#5EA2C1 Resene Island Time B63-061-241
-#0091C7 Resene Key Largo B55-102-243
-#5B5756 Resene Kia Kaha N37-004-034
-#D5D2D0 Resene Kinship N84-004-068
-#CA7B47 Resene Kombucha O59-113-057
-#4F778E Resene Lakeside B48-043-246
-#FFC400 Resene Light Fantastic Y82-197-084
-#DC9C51 Resene Liquid Gold Y69-117-071
-#F0E9DA Resene Meringue G92-018-091
-#FED894 Resene Moondance Y88-089-084
-#B4CEC9 Resene Morning Haze G81-022-184
-#C9E7E2 Resene New Day G89-025-187
-#474746 Resene Night Magic N30-002-107
-#009AB4 Resene Now Or Never B58-085-220
-#374D63 Resene Ocean Waves B32-036-263
-#6D7063 Resene Off The Grid G47-018-118
-#B7A490 Resene Open Sesame Y68-031-075
-#6F675E Resene Outlaw Y44-015-076
-#61474A Resene Pandemonium R33-027-013
-#DACAD7 Resene Petal V83-020-331
-#9A8D79 Resene Piazza Y59-029-082
-#00637F Resene Plan B B39-063-237
-#68604E Resene Rewilding Y41-026-089
-#716F68 Resene Rocky Point G47-010-097
-#3E594F Resene Rolling Hills G35-029-170
-#A03B38 Resene Rudolph R39-112-030
-#516784 Resene Rulebreaker B43-044-269
-#679FD2 Resene Sail Away B64-074-262
-#B27F4B Resene Salted Caramel O57-090-069
-#8B5956 Resene Savour R43-053-027
-#D9B47C Resene See The Light Y75-079-079
-#4381AE Resene Skylight B52-071-259
-#9AA76C Resene Smashed Avocado G66-075-117
-#BA7A6A Resene Soiree R57-070-039
-#8A8B89 Resene Solstice N58-002-120
-#CBB6B1 Resene Soul Searcher BR76-020-038
-#E6E3C4 Resene Springtime G90-038-105
-#6F5361 Resene Staccato V39-033-347
-#C3CB7E Resene Staycation G80-094-111
-#BBB9B3 Resene Stepping Stone N75-007-093
-#C38EC1 Resene Sugar Plum Fairy V66-080-327
-#B7877B Resene Summer Rose BR61-050-040
-#E6B765 Resene Sunbeam Y77-112-081
-#927F49 Resene Tarzan Y54-074-090
-#C4C9CC Resene Ted N81-006-241
-#AE5C87 Resene Temptation V50-093-347
-#796F73 Resene Tenor V48-010-351
-#F09750 Resene Tequila Sunrise O70-133-062
-#9B9F9F Resene The Ritz M65-004-187
-#545552 Resene Thunderstorm N36-004-126
-#8D866F Resene Tic Tac Toe G56-031-096
-#3C5F6D Resene Time Traveller B38-034-234
-#D3DEDD Resene Timeless G88-009-193
-#4B4E50 Resene Times Square N33-004-237
-#A0A19B Resene Tino Pai G66-008-116
-#3F504E Resene Top Notch G32-017-192
-#C2CBB4 Resene Transcend G81-030-126
-#644F53 Resene Transition BR36-022-007
-#6A4B44 Resene Trek R35-035-038
-#E68171 Resene Tropical R65-105-035
-#D3C2AD Resene Tua Tua Y79-030-079
-#9F5C98 Resene Twice As Nice V49-098-330
-#6F8583 Resene Unite G54-020-192
-#7B9CA4 Resene Upside B62-029-218
-#D6B8B8 Resene Valentine R77-026-021
-#717B71 Resene Vantage Point G51-017-144
-#924956 Resene Very Berry R40-077-011
-#9BA583 Resene Wabi Sabi G66-045-120
-#5F737D Resene Watermark B47-022-238
-#67828F Resene Wayfarer B53-028-237
-#344B48 Resene Welcome G30-022-186
-#62666A Resene Westminster N43-006-252
-#EDEFDF Resene White Noise G94-019-113
-#90BB2F Resene Wild Side G71-163-119
-#90634C Resene Yogi O46-059-053
+#FF752F Adrenalin O64-179-050
+#F5F4F1 Alabaster N96-006-099
+#354C76 Aviator B33-064-279
+#3C3C3C Black N24-000-098
+#42434E Black Doris V28-016-289
+#EBE9E5 Black White N93-005-100
+#643D4F Blackberry V29-049-347
+#69453C Cedar WW600
+#D27335 Clockwork Orange O59-135-056
+#6D634C Crowshead WD001
+#2F5B58 Deep Teal G35-039-188
+#847267 Domino BR49-024-061
+#F4F3EF Double Alabaster N95-004-106
+#CE586F Drop Dead Gorgeous R53-116-012
+#C4CBC8 Duck Egg Blue N81-007-166
+#CFC0B2 Foundation Y78-022-070
+#D7B73A Funk G76-153-091
+#E86438 Grenadier O58-156-046
+#F6F6F3 Half Alabaster N97-003-099
+#F0EFEC Half Black White N94-004-096
+#EFEDEA Half Sea Fog N94-005-102
+#D9D2C7 Half Tea Y85-015-083
+#FFD528 Happy Y87-189-090
+#F7B11E I Dare You Y77-179-079
+#3A414C Indian Ink B26-017-270
+#E8E4DE Merino Y91-009-076
+#AF7F46 Natural WD026
+#D2CAA2 Nirvana G81-050-099
+#A4928A Otter BR62-021-052
+#8D4B40 Pioneer Red R39-075-033
+#403E3C Pitch Black WD039
+#893C3F Pohutukawa R36-087-023
+#F3F3F0 Quarter Black White N96-004-100
+#E2DDD6 Quarter Tea Y89-010-084
+#5F4D4A Rebel BR34-020-035
+#EFEBE3 Rice Cake G94-010-092
+#CA4241 Roadster R46-145-029
+#754C46 Scoria R36-049-033
+#E9E7E3 Sea Fog N92-005-100
+#51594B Seaweed G38-025-121
+#724C77 Showstopper V37-078-326
+#F1E2D1 Solitaire Y90-023-077
+#B75441 Thunderbird R47-117-038
+#555250 Tiri WW0811
+#C27D5D Tuscany O58-086-050
+#BBD941 Wellywood G82-173-113
+#00679F Wet N Wild B49-089-260
+#E1DDD7 White Pointer N89-007-087
+#DBCBB8 Whitewash -
+#E1D260 Wild Thing Y87-145-086
+#614D41 Allspice BR34-029-057
+#6A935D Aloe Vera G57-081-136
+#BE9977 Amaranth BR66-057-069
+#CD3D32 Amped R48-159-035
+#E5EBEC Aoraki N93-005-211
+#853E3B Aroha R35-080-028
+#97473F Arriba R40-090-032
+#DEC9AD Athena Y82-039-079
+#D7A89A Awaken BR73-048-042
+#BAAFA0 Awaroa Bay Y72-021-082
+#879498 Baring Head B60-012-225
+#3E4041 Black Sand N27-002-245
+#317583 Boost B45-051-220
+#565757 Boris N37-001-189
+#40A888 Boundless G62-090-169
+#3F464B Carpe Noctem B29-011-252
+#E6A1B1 Coconut Ice R73-064-005
+#BCD2DA Comfortably Numb B83-020-230
+#D8C7C1 Contented O82-017-048
+#A39E80 Contour G65-039-101
+#9C9386 Courtyard Y61-018-079
+#ACA79D Credence Y69-013-086
+#DFD7C6 Creme De La Creme G86-022-091
+#443F3D Dark Chocolate N27-006-051
+#D29377 Dawn Glow O66-074-050
+#FFC76F Daylight Y84-122-078
+#AFBAB8 Double Duck Egg Blue G75-010-186
+#A9C9DD Dream Big B79-034-243
+#B0BAB3 Eau De Nil G75-012-153
+#375161 Epic B33-032-248
+#C6C1B2 Epitome G78-019-096
+#5A6260 Exactly G41-009-181
+#939985 Field Day G62-026-120
+#E1CFA9 Fluffy Duck Y84-050-089
+#4A5352 Forty Six G35-009-188
+#B1B2B2 Four Winds N72-001-181
+#A4D5D2 Freewheeling G82-040-192
+#809549 Good To Go G58-098-118
+#65596E Grape Escape V40-032-313
+#84A99A Green Acres G66-038-167
+#C0B781 Green Days G74-068-100
+#93A2C4 Heliotrope B67-045-277
+#B3AE9C Hindsight G71-023-099
+#817C70 Hollyford Track G52-017-093
+#78B9C2 Idyllic B71-050-210
+#E7D589 Illuminate G85-093-096
+#764145 Incarnadine R34-057-019
+#8B9E98 Infused G64-018-174
+#EAD7CF Inspire O87-019-048
+#444648 Invincible N30-003-253
+#5EA2C1 Island Time B63-061-241
+#0091C7 Key Largo B55-102-243
+#5B5756 Kia Kaha N37-004-034
+#D5D2D0 Kinship N84-004-068
+#CA7B47 Kombucha O59-113-057
+#4F778E Lakeside B48-043-246
+#FFC400 Light Fantastic Y82-197-084
+#DC9C51 Liquid Gold Y69-117-071
+#F0E9DA Meringue G92-018-091
+#FED894 Moondance Y88-089-084
+#B4CEC9 Morning Haze G81-022-184
+#C9E7E2 New Day G89-025-187
+#474746 Night Magic N30-002-107
+#009AB4 Now Or Never B58-085-220
+#374D63 Ocean Waves B32-036-263
+#6D7063 Off The Grid G47-018-118
+#B7A490 Open Sesame Y68-031-075
+#6F675E Outlaw Y44-015-076
+#61474A Pandemonium R33-027-013
+#DACAD7 Petal V83-020-331
+#9A8D79 Piazza Y59-029-082
+#00637F Plan B B39-063-237
+#68604E Rewilding Y41-026-089
+#716F68 Rocky Point G47-010-097
+#3E594F Rolling Hills G35-029-170
+#A03B38 Rudolph R39-112-030
+#516784 Rulebreaker B43-044-269
+#679FD2 Sail Away B64-074-262
+#B27F4B Salted Caramel O57-090-069
+#8B5956 Savour R43-053-027
+#D9B47C See The Light Y75-079-079
+#4381AE Skylight B52-071-259
+#9AA76C Smashed Avocado G66-075-117
+#BA7A6A Soiree R57-070-039
+#8A8B89 Solstice N58-002-120
+#CBB6B1 Soul Searcher BR76-020-038
+#E6E3C4 Springtime G90-038-105
+#6F5361 Staccato V39-033-347
+#C3CB7E Staycation G80-094-111
+#BBB9B3 Stepping Stone N75-007-093
+#C38EC1 Sugar Plum Fairy V66-080-327
+#B7877B Summer Rose BR61-050-040
+#E6B765 Sunbeam Y77-112-081
+#927F49 Tarzan Y54-074-090
+#C4C9CC Ted N81-006-241
+#AE5C87 Temptation V50-093-347
+#796F73 Tenor V48-010-351
+#F09750 Tequila Sunrise O70-133-062
+#9B9F9F The Ritz M65-004-187
+#545552 Thunderstorm N36-004-126
+#8D866F Tic Tac Toe G56-031-096
+#3C5F6D Time Traveller B38-034-234
+#D3DEDD Timeless G88-009-193
+#4B4E50 Times Square N33-004-237
+#A0A19B Tino Pai G66-008-116
+#3F504E Top Notch G32-017-192
+#C2CBB4 Transcend G81-030-126
+#644F53 Transition BR36-022-007
+#6A4B44 Trek R35-035-038
+#E68171 Tropical R65-105-035
+#D3C2AD Tua Tua Y79-030-079
+#9F5C98 Twice As Nice V49-098-330
+#6F8583 Unite G54-020-192
+#7B9CA4 Upside B62-029-218
+#D6B8B8 Valentine R77-026-021
+#717B71 Vantage Point G51-017-144
+#924956 Very Berry R40-077-011
+#9BA583 Wabi Sabi G66-045-120
+#5F737D Watermark B47-022-238
+#67828F Wayfarer B53-028-237
+#344B48 Welcome G30-022-186
+#62666A Westminster N43-006-252
+#EDEFDF White Noise G94-019-113
+#90BB2F Wild Side G71-163-119
+#90634C Yogi O46-059-053

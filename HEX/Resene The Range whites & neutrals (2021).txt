@@ -1,384 +1,384 @@
-#CCBFAE Resene Akaroa Y79-026-082
-#F5F4F1 Resene Alabaster N96-006-099
-#E9E1D7 Resene Albescent White Y90-013-085
-#3E3E3F Resene All Black N25-001-264
-#60615F Resene Armadillo N42-004-127
-#9F9485 Resene Arrowtown Y61-022-084
-#C8C2B6 Resene Ash G79-017-092
-#DDDDDA Resene Athens Grey N89-004-107
-#BBBCB8 Resene Atmosphere N76-004-127
-#58595A Resene Baltic Sea N37-002-259
-#E6E5E0 Resene Barely There N91-007-103
-#665345 Resene Bark WW0810
-#8D7F6F Resene Beaten Track BR55-026-075
-#F6F2E8 Resene Bianca Y96-012-090
-#E0CFBD Resene Biscotti Y84-026-074
-#C3B8A8 Resene Bison Hide Y75-022-083
-#3C3C3C Resene Black N24-000-098
-#E6E4E0 Resene Black Haze N92-006-101
-#EBE9E5 Resene Black White N93-005-100
-#3F4142 Resene Blackjack N26-002-176
-#E4DACF Resene Blanc Y88-015-078
-#958D85 Resene Bleached Riverstone WW0820
-#464342 Resene Bokara Grey N28-005-068
-#4D433F Resene Bushtrack WW0812
-#D6BE9F Resene Canterbury Clay BR78-045-078
-#EDE7DC Resene Cararra G92-014-091
-#D5CABB Resene Caraway Y82-022-085
-#69453C Resene Cedar WW600
-#F0ECE6 Resene Chalk Dust Y94-010-085
-#383838 Resene Charcoal N24-000-318
-#CDC7C0 Resene Cloud Y81-011-082
-#BDB7B2 Resene Cloudy BR75-009-070
-#544B49 Resene Coffee Bean BR33-011-045
-#EFDDBE Resene Colonial White Y89-043-083
-#D7D7D6 Resene Concrete N87-002-093
-#BDB3A6 Resene Cougar Y73-019-081
-#AB9F90 Resene Craigieburn Y66-023-081
-#6D634C Resene Crowshead WD001
-#805C49 Resene Dark Oak WW7
-#AAABA8 Resene Delta N69-004-123
-#C8B49F Resene Desert Sand BR71-036-074
-#4B4645 Resene Diesel N30-006-032
-#C0B29E Resene Double Akaroa Y73-029-083
-#F4F3EF Resene Double Alabaster N95-004-106
-#B9B3A7 Resene Double Ash G72-016-092
-#F3ECE2 Resene Double Bianca Y94-016-087
-#B2A696 Resene Double Bison Hide Y68-023-082
-#E4E3DE Resene Double Black White N90-005-099
-#DDD2C5 Resene Double Blanc Y85-019-079
-#3E4042 Resene Double Cod Grey N27-003-250
-#CCCCCB Resene Double Concrete N82-001-111
-#BDA995 Resene Double Drought BR70-032-073
-#FAE2C4 Resene Double Dutch White Y91-043-079
-#CDC0AD Resene Double Fossil Y79-025-084
-#454749 Resene Double Foundry N30-004-260
-#8B857C Resene Double Friar Greystone Y56-014-084
-#565653 Resene Double Gravel N37-005-114
-#4E4A47 Resene Double Ironsand N31-006-069
-#A09D8B Resene Double Lemon Grass G64-022-101
-#625D58 Resene Double Masala BR39-009-079
-#E0DBD4 Resene Double Merino Y88-009-076
-#625A53 Resene Double Mondo BR38-014-074
-#9F9385 Resene Double Napa BR62-023-078
-#D3C5B3 Resene Double Parchment Y80-025-083
-#BAA88F Resene Double Pavlova Y70-037-081
-#F2E6D5 Resene Double Pearl Lusta Y92-024-085
-#8C8276 Resene Double Pravda BR55-019-078
-#EAE5DB Resene Double Rice Cake G91-012-091
-#E2E0DC Resene Double Sea Fog N90-005-100
-#A3A5A4 Resene Double Silver Chalice N68-003-158
-#C1AF9B Resene Double Sisal BR73-031-078
-#DFD0BB Resene Double Spanish White Y84-029-081
-#878987 Resene Double Stack N57-003-146
-#877F77 Resene Double Stonehenge BR54-014-073
-#B8B1A1 Resene Double Tana BR72-023-073
-#807E77 Resene Double Tapa G53-011-101
-#C0B5A6 Resene Double Tea Y74-020-081
-#D7CFC0 Resene Double Thorndon Cream Y84-019-089
-#B8B2A9 Resene Double Truffle Y72-011-081
-#EAE1D2 Resene Double Villa White Y90-020-087
-#E0D3C0 Resene Double Wheatfield Y85-027-087
-#D8D4CD Resene Double White Pointer Y85-009-084
-#9E7D5B Resene Driftwood WD012
-#C8B6A5 Resene Drought BR76-028-076
-#F9E8D1 Resene Dutch White Y93-034-082
-#4E5053 Resene Ebony Clay N34-006-264
-#DED8CC Resene Ecru White G88-016-094
-#E7E0D7 Resene Eighth Akaroa Y89-013-080
-#C7C1B8 Resene Eighth Arrowtown Y78-012-084
-#E6E4DE Resene Eighth Ash N91-007-097
-#EFE7DF Resene Eighth Biscotti Y93-012-075
-#E2DCD5 Resene Eighth Bison Hide Y88-011-080
-#F6F5F2 Resene Eighth Black White N97-004-098
-#F1ECE6 Resene Eighth Blanc N94-008-084
-#E9DCCB Resene Eighth Canterbury Clay Y88-023-082
-#E6DED4 Resene Eighth Drought Y89-013-082
-#EEE7DE Resene Eighth Fossil Y92-009-077
-#CBC6C1 Resene Eighth Friar Greystone N80-008-082
-#7F7B78 Resene Eighth Ironsand N51-006-073
-#E6DDD5 Resene Eighth Joss Y88-011-073
-#D1D2CC Resene Eighth Lemon Grass G84-009-113
-#DBD0C5 Resene Eighth Malta Y86-023-073
-#9F9D9A Resene Eighth Masala N63-004-075
-#A29A92 Resene Eighth Mondo BR64-014-075
-#DBD5CD Resene Eighth Napa Y85-011-086
-#EEE9E1 Resene Eighth Parchment Y93-011-089
-#EDE1D0 Resene Eighth Pavlova Y90-024-086
-#F8F6F1 Resene Eighth Pearl Lusta N97-006-097
-#CEC8C0 Resene Eighth Pravda Y81-011-079
-#F8F6F1 Resene Eighth Rice Cake N96-006-095
-#EDE4D9 Resene Eighth Sisal Y91-016-083
-#F5EEE6 Resene Eighth Spanish White Y94-010-075
-#C9C5C0 Resene Eighth Stonehenge N79-006-075
-#C0BAB0 Resene Eighth Stonewall Y76-014-083
-#E5E2DA Resene Eighth Tana G90-010-096
-#C3C2BE Resene Eighth Tapa N78-005-103
-#E7E3DE Resene Eighth Tea N90-005-072
-#F3F0EA Resene Eighth Thorndon Cream N94-007-096
-#E8E4DF Resene Eighth Truffle N90-007-078
-#F4F1EA Resene Eighth Wheatfield G95-009-091
-#454748 Resene Element N30-002-253
-#735F48 Resene English Walnut WW8
-#B9B7B1 Resene Foggy Grey G74-008-101
-#D8CDBD Resene Fossil Y84-023-085
-#4C4F52 Resene Foundry N33-007-254
-#9B9690 Resene Friar Greystone Y62-010-086
-#555556 Resene Fuscous Grey N36-002-289
-#A79585 Resene Gargoyle BR63-027-071
-#8B8985 Resene Gauntlet N57-006-087
-#D1D6D8 Resene Geyser N85-004-213
-#F9EAD6 Resene Gin Fizz Y94-028-083
-#636360 Resene Gravel N42-005-114
-#ACB1B5 Resene Grey Chateau N73-006-251
-#57595C Resene Grey Friars N35-004-253
-#B4AA97 Resene Grey Olive Y70-027-089
-#B2BABD Resene Gull Grey N75-008-229
-#8F908D Resene Gunsmoke N60-005-127
-#D6CCBD Resene Half Akaroa Y83-021-084
-#F6F6F3 Resene Half Alabaster N97-003-099
-#EBE6DE Resene Half Albescent White Y91-010-082
-#AAA195 Resene Half Arrowtown Y67-019-084
-#D4CFC6 Resene Half Ash G83-012-093
-#E7E7E4 Resene Half Athens Grey N91-003-107
-#CACAC6 Resene Half Atmosphere N81-005-110
-#6A6B6D Resene Half Baltic Sea N46-002-264
-#EDECE9 Resene Half Barely There N94-006-096
-#F8F5EE Resene Half Bianca N96-008-093
-#E1D3C8 Resene Half Biscotti BR86-018-072
-#D4C9BD Resene Half Bison Hide Y81-018-082
-#F0EFEC Resene Half Black White N94-004-096
-#E7DFD8 Resene Half Blanc Y91-011-080
-#504E4F Resene Half Bokara Grey N33-002-017
-#DCC7AC Resene Half Canterbury Clay Y80-044-078
-#F0EBE2 Resene Half Cararra G92-014-090
-#DDD5C8 Resene Half Caraway Y86-017-085
-#D9D4CE Resene Half Cloud N85-009-079
-#F4E3C9 Resene Half Colonial White Y92-044-086
-#E7E5E4 Resene Half Concrete N91-001-126
-#C8C0B6 Resene Half Cougar Y78-014-082
-#B9B0A3 Resene Half Craigieburn Y72-018-083
-#BCBDB9 Resene Half Delta G76-011-122
-#D4C7B8 Resene Half Drought Y81-023-077
-#FCEEDB Resene Half Dutch White Y94-027-084
-#E6E1D7 Resene Half Ecru White G90-013-091
-#C6C5C0 Resene Half Foggy Grey N80-007-098
-#E1D7CB Resene Half Fossil Y87-016-081
-#AAA7A2 Resene Half Friar Greystone N69-008-089
-#666668 Resene Half Fuscous Grey N42-002-345
-#73736F Resene Half Gravel N48-007-109
-#BCC0C4 Resene Half Grey Chateau N78-006-255
-#676A6D Resene Half Grey Friars N45-005-261
-#BFB7A8 Resene Half Grey Olive Y74-021-087
-#E9D6C1 Resene Half Haystack Y87-031-077
-#E7E7E5 Resene Half House White N92-003-109
-#DBDDDF Resene Half Iron N88-002-237
-#5E5A57 Resene Half Ironsand N38-005-056
-#E8E3D9 Resene Half Joanna G90-014-092
-#BCBAB0 Resene Half Lemon Grass G75-014-106
-#D6D1C6 Resene Half Linen G84-015-093
-#C4B4A8 Resene Half Malta BR74-020-069
-#7E7A76 Resene Half Masala BR51-008-073
-#EEEBE6 Resene Half Merino N94-006-090
-#ECE9E3 Resene Half Milk White N92-007-080
-#7A7067 Resene Half Mondo BR48-016-073
-#C3C1C0 Resene Half Mountain Mist N78-003-063
-#C2BAAF Resene Half Napa Y76-014-081
-#F7F4EC Resene Half Orchid White G96-010-092
-#E5DCCD Resene Half Parchment Y88-023-090
-#D5C6B0 Resene Half Pavlova Y81-031-084
-#F8F1E6 Resene Half Pearl Lusta Y95-012-089
-#C7BFB8 Resene Half Perfect Taupe BR78-010-068
-#B1A9A0 Resene Half Pravda Y69-014-081
-#D3D1D0 Resene Half Rakaia N84-002-038
-#989EA3 Resene Half Raven N65-007-250
-#F3F0EA Resene Half Rice Cake N95-007-092
-#E4DBD2 Resene Half Sandspit Brown Y88-012-079
-#9E968E Resene Half Sandstone BR62-013-071
-#EFEDEA Resene Half Sea Fog N94-005-102
-#C5C7C5 Resene Half Silver Chalice N80-002-146
-#DECFBD Resene Half Sisal Y84-025-082
-#F3E7D8 Resene Half Solitaire Y93-020-080
-#ECE3D5 Resene Half Spanish White Y91-020-082
-#AAACAB Resene Half Stack N70-002-168
-#A9A39E Resene Half Stonehenge BR67-008-074
-#A59D90 Resene Half Stonewall Y64-017-083
-#D2D3D3 Resene Half Surrender N85-002-225
-#D5D0C4 Resene Half Tana G83-016-094
-#A5A39C Resene Half Tapa G66-009-097
-#B0ADA6 Resene Half Taupe Grey Y71-009-090
-#D9D2C7 Resene Half Tea Y85-015-083
-#E9E4DB Resene Half Thorndon Cream G91-012-093
-#E5E1D8 Resene Half Titania G90-011-092
-#D6D0C9 Resene Half Truffle Y84-009-084
-#6F7378 Resene Half Tuna N49-007-256
-#F2EDE3 Resene Half Villa White G94-013-091
-#EDECE8 Resene Half Wan White N93-004-098
-#EFE7DA Resene Half Wheatfield Y92-018-086
-#E9E7E2 Resene Half White Pointer N91-005-090
-#E6CEB3 Resene Haystack Y84-041-077
-#B27145 Resene Heartwood WW0809
-#E4E2DF Resene House White N90-003-092
-#6D655C Resene Iroko WD005
-#D3D6D8 Resene Iron N86-002-236
-#4F4E4D Resene Ironsand N36-003-056
-#DED8CC Resene Joanna G88-016-094
-#CFCCC0 Resene Kangaroo G83-014-097
-#ADAEAB Resene Kensington Grey N71-004-124
-#5F6265 Resene Landscape Grey N46-005-253
-#AFAD9F Resene Lemon Grass G70-019-106
-#61554F Resene Lignite BR34-021-058
-#CBC5B6 Resene Linen G80-020-097
-#B5A79A Resene Malta BR70-023-073
-#706C67 Resene Masala BR45-009-077
-#E8E4DE Resene Merino Y91-009-076
-#E4E1DB Resene Milk White N90-007-075
-#604E48 Resene Mission Brown BR33-025-045
-#716960 Resene Mondo BR43-014-073
-#B0AEAD Resene Mountain Mist N71-003-088
-#B6AB9D Resene Napa Y70-020-082
-#AF7F46 Resene Natural WD026
-#3B3B3B Resene Nero N25-001-046
-#505153 Resene Nocturnal N34-002-275
-#785743 Resene Nutmeg WW16
-#BDBAB1 Resene Off Piste G76-011-096
-#786C64 Resene Oilskin BR46-016-062
-#F8F1E5 Resene Orchid White Y96-015-089
-#DBD1C2 Resene Parchment Y86-022-086
-#CCBAA0 Resene Pavlova Y77-038-083
-#F2EADC Resene Pearl Lusta Y94-018-087
-#BBB0A9 Resene Perfect Taupe BR73-014-067
-#BFA586 Resene Piha Sand BR71-048-077
-#403E3C Resene Pitch Black WD039
-#4C4C4B Resene Porter N32-001-088
-#EEEEED Resene Poured Milk N94-001-128
-#9D948A Resene Pravda BR62-017-079
-#E0D7CB Resene Quarter Akaroa Y86-017-086
-#F7F7F4 Resene Quarter Alabaster N97-004-102
-#F0ECE6 Resene Quarter Albescent White Y94-010-085
-#B9B1A7 Resene Quarter Arrowtown Y72-014-085
-#DFDAD2 Resene Quarter Ash G87-010-094
-#F8F6F1 Resene Quarter Bianca N97-006-097
-#E8DCD1 Resene Quarter Biscotti Y88-017-075
-#DAD2C8 Resene Quarter Bison Hide Y84-014-085
-#F3F3F0 Resene Quarter Black White N96-004-100
-#EDE7E1 Resene Quarter Blanc N93-008-081
-#E1D1BD Resene Quarter Canterbury Clay Y82-040-079
-#EAE7E4 Resene Quarter Concrete N92-003-089
-#D5CEC6 Resene Quarter Cougar Y83-011-077
-#C8C0B5 Resene Quarter Craigieburn Y79-016-082
-#CACAC7 Resene Quarter Delta N81-004-117
-#E0D4C8 Resene Quarter Drought Y85-018-077
-#FAF1E4 Resene Quarter Dutch White Y96-018-085
-#EBE7DF Resene Quarter Ecru White G92-010-091
-#D3D2CD Resene Quarter Foggy Grey N84-005-098
-#E7DED3 Resene Quarter Fossil Y89-015-082
-#B9B6B1 Resene Quarter Friar Greystone N74-006-088
-#76787A Resene Quarter Fuscous Grey N50-004-271
-#888782 Resene Quarter Gravel N56-008-106
-#CCCFD2 Resene Quarter Grey Chateau N83-004-245
-#75797D Resene Quarter Grey Friars N51-007-260
-#EAEBEA Resene Quarter Iron N93-001-154
-#6A6664 Resene Quarter Ironsand N44-006-063
-#ECE8DF Resene Quarter Joanna Y92-010-090
-#D7CDC4 Resene Quarter Joss BR82-013-065
-#C7C7BE Resene Quarter Lemon Grass G80-013-109
-#DFDCD3 Resene Quarter Linen G88-011-094
-#D2C5B9 Resene Quarter Malta BR79-019-069
-#8B8987 Resene Quarter Masala N56-004-072
-#F2EFEB Resene Quarter Merino N95-005-084
-#F1EDE9 Resene Quarter Milk White N94-005-075
-#948A80 Resene Quarter Mondo BR59-020-076
-#D0C8BE Resene Quarter Napa Y81-013-083
-#EBE4D8 Resene Quarter Parchment Y91-016-088
-#E6D8C2 Resene Quarter Pavlova Y87-029-084
-#F9F4EB Resene Quarter Pearl Lusta G96-012-092
-#D5CFCA Resene Quarter Perfect Taupe N83-008-067
-#C2B9AF Resene Quarter Pravda BR75-013-078
-#DEDEDD Resene Quarter Rakaia N88-002-073
-#F5F4EF Resene Quarter Rice Cake N96-006-096
-#DFE2DB Resene Quarter Sandspit Brown Y91-010-078
-#AEA7A1 Resene Quarter Sandstone BR69-010-071
-#D2D4D2 Resene Quarter Silver Chalice N84-002-149
-#E7DCCE Resene Quarter Sisal Y88-021-084
-#F2EBE2 Resene Quarter Solitaire Y94-014-081
-#F2EBE0 Resene Quarter Spanish White Y93-015-083
-#BDBEBD Resene Quarter Stack N77-002-152
-#BCB6B1 Resene Quarter Stonehenge BR75-009-075
-#B8AFA3 Resene Quarter Stonewall Y72-017-084
-#DDDFDE Resene Quarter Surrender N89-002-179
-#DEDAD0 Resene Quarter Tana G87-014-095
-#B3B3AE Resene Quarter Tapa N73-006-106
-#C0BDB7 Resene Quarter Taupe Grey G77-008-093
-#E2DDD6 Resene Quarter Tea Y89-010-084
-#EFEBE3 Resene Quarter Thorndon Cream G93-011-091
-#DED9D4 Resene Quarter Truffle N87-007-077
-#F5F1EA Resene Quarter Villa White Y95-010-090
-#F2F1EE Resene Quarter Wan White N95-004-098
-#F2ECE3 Resene Quarter Wheatfield G94-012-091
-#ECEAE6 Resene Quarter White Pointer N93-006-091
-#C7C5C5 Resene Rakaia N80-002-054
-#82888E Resene Raven B58-009-256
-#5B5652 Resene Relic N39-008-075
-#EFEBE3 Resene Rice Cake G94-010-092
-#B6ADA4 Resene Rockbottom BR71-014-077
-#C4B1A0 Resene Sandcastle BR73-028-069
-#D9CEC3 Resene Sandspit Brown Y84-017-074
-#90857A Resene Sandstone BR56-018-073
-#E9E7E3 Resene Sea Fog N92-005-100
-#E6E5E7 Resene Seashell N92-001-292
-#494543 Resene Sheer Black WW0801
-#B9BAB8 Resene Silver Chalice N76-003-139
-#CFC3B1 Resene Sisal Y80-027-081
-#7A736B Resene Smokey Ash WW22
-#F1E2D1 Resene Solitaire Y90-023-077
-#E8DBCB Resene Spanish White Y88-024-082
-#61605C Resene Squall N38-006-103
-#999C9B Resene Stack N65-003-154
-#606367 Resene Steel Grey N42-006-256
-#99928C Resene Stonehenge BR61-012-073
-#958B7C Resene Stonewall Y59-023-083
-#A1968C Resene Stonewashed BR61-017-070
-#C5C7C8 Resene Surrender N80-002-228
-#C5C0B1 Resene Tana G78-019-095
-#8F8E88 Resene Tapa G60-010-102
-#9F9A91 Resene Taupe Grey Y64-013-087
-#CEC4B8 Resene Tea Y81-019-081
-#DFD9CE Resene Thorndon Cream Y87-016-090
-#555250 Resene Tiri WW0811
-#DBD6CC Resene Titania G84-012-095
-#81807C Resene Traffic N54-006-109
-#52463E Resene Treehouse WD037
-#B6A792 Resene Triple Akaroa Y69-029-083
-#B3AC9D Resene Triple Ash G69-019-091
-#AD9F8D Resene Triple Bison Hide Y66-027-082
-#E0DED9 Resene Triple Black White N87-006-094
-#D7CCBF Resene Triple Blanc Y83-019-079
-#C7C7C6 Resene Triple Concrete N79-002-103
-#7F7970 Resene Triple Friar Greystone Y51-013-084
-#5C5853 Resene Triple Masala Y38-008-082
-#DAD6CF Resene Triple Merino Y86-009-083
-#95887A Resene Triple Napa BR58-022-076
-#C8BBA8 Resene Triple Parchment Y75-027-079
-#EFE1CD Resene Triple Pearl Lusta Y91-029-084
-#E6E0D5 Resene Triple Rice Cake Y90-016-087
-#DCDAD4 Resene Triple Sea Fog N87-007-094
-#B8A690 Resene Triple Sisal BR68-032-078
-#DDC9B3 Resene Triple Spanish White Y83-035-081
-#7C756D Resene Triple Stonehenge BR50-014-072
-#B9AD9D Resene Triple Tea BR72-022-079
-#CFC7BA Resene Triple Thorndon Cream Y81-018-086
-#ACA69E Resene Triple Truffle Y69-012-082
-#CFCAC2 Resene Triple White Pointer Y83-012-088
-#C9C2BA Resene Truffle Y78-011-083
-#5B5F64 Resene Tuna N39-008-260
-#EFE8DB Resene Villa White Y92-018-087
-#E9E5E3 Resene Vista White N91-004-046
-#E8E6E1 Resene Wan White N93-005-105
-#E7DECE Resene Wheatfield Y89-023-088
-#F7F8F5 Resene White N97-006-096
-#ECE6E2 Resene White Linen N93-007-073
-#E1DDD7 Resene White Pointer N89-007-087
-#D7D4D4 Resene Whiteout N86-003-062
-#DBCBB8 Resene Whitewash -
-#525350 Resene Zeus N35-004-121
+#CCBFAE Akaroa Y79-026-082
+#F5F4F1 Alabaster N96-006-099
+#E9E1D7 Albescent White Y90-013-085
+#3E3E3F All Black N25-001-264
+#60615F Armadillo N42-004-127
+#9F9485 Arrowtown Y61-022-084
+#C8C2B6 Ash G79-017-092
+#DDDDDA Athens Grey N89-004-107
+#BBBCB8 Atmosphere N76-004-127
+#58595A Baltic Sea N37-002-259
+#E6E5E0 Barely There N91-007-103
+#665345 Bark WW0810
+#8D7F6F Beaten Track BR55-026-075
+#F6F2E8 Bianca Y96-012-090
+#E0CFBD Biscotti Y84-026-074
+#C3B8A8 Bison Hide Y75-022-083
+#3C3C3C Black N24-000-098
+#E6E4E0 Black Haze N92-006-101
+#EBE9E5 Black White N93-005-100
+#3F4142 Blackjack N26-002-176
+#E4DACF Blanc Y88-015-078
+#958D85 Bleached Riverstone WW0820
+#464342 Bokara Grey N28-005-068
+#4D433F Bushtrack WW0812
+#D6BE9F Canterbury Clay BR78-045-078
+#EDE7DC Cararra G92-014-091
+#D5CABB Caraway Y82-022-085
+#69453C Cedar WW600
+#F0ECE6 Chalk Dust Y94-010-085
+#383838 Charcoal N24-000-318
+#CDC7C0 Cloud Y81-011-082
+#BDB7B2 Cloudy BR75-009-070
+#544B49 Coffee Bean BR33-011-045
+#EFDDBE Colonial White Y89-043-083
+#D7D7D6 Concrete N87-002-093
+#BDB3A6 Cougar Y73-019-081
+#AB9F90 Craigieburn Y66-023-081
+#6D634C Crowshead WD001
+#805C49 Dark Oak WW7
+#AAABA8 Delta N69-004-123
+#C8B49F Desert Sand BR71-036-074
+#4B4645 Diesel N30-006-032
+#C0B29E Double Akaroa Y73-029-083
+#F4F3EF Double Alabaster N95-004-106
+#B9B3A7 Double Ash G72-016-092
+#F3ECE2 Double Bianca Y94-016-087
+#B2A696 Double Bison Hide Y68-023-082
+#E4E3DE Double Black White N90-005-099
+#DDD2C5 Double Blanc Y85-019-079
+#3E4042 Double Cod Grey N27-003-250
+#CCCCCB Double Concrete N82-001-111
+#BDA995 Double Drought BR70-032-073
+#FAE2C4 Double Dutch White Y91-043-079
+#CDC0AD Double Fossil Y79-025-084
+#454749 Double Foundry N30-004-260
+#8B857C Double Friar Greystone Y56-014-084
+#565653 Double Gravel N37-005-114
+#4E4A47 Double Ironsand N31-006-069
+#A09D8B Double Lemon Grass G64-022-101
+#625D58 Double Masala BR39-009-079
+#E0DBD4 Double Merino Y88-009-076
+#625A53 Double Mondo BR38-014-074
+#9F9385 Double Napa BR62-023-078
+#D3C5B3 Double Parchment Y80-025-083
+#BAA88F Double Pavlova Y70-037-081
+#F2E6D5 Double Pearl Lusta Y92-024-085
+#8C8276 Double Pravda BR55-019-078
+#EAE5DB Double Rice Cake G91-012-091
+#E2E0DC Double Sea Fog N90-005-100
+#A3A5A4 Double Silver Chalice N68-003-158
+#C1AF9B Double Sisal BR73-031-078
+#DFD0BB Double Spanish White Y84-029-081
+#878987 Double Stack N57-003-146
+#877F77 Double Stonehenge BR54-014-073
+#B8B1A1 Double Tana BR72-023-073
+#807E77 Double Tapa G53-011-101
+#C0B5A6 Double Tea Y74-020-081
+#D7CFC0 Double Thorndon Cream Y84-019-089
+#B8B2A9 Double Truffle Y72-011-081
+#EAE1D2 Double Villa White Y90-020-087
+#E0D3C0 Double Wheatfield Y85-027-087
+#D8D4CD Double White Pointer Y85-009-084
+#9E7D5B Driftwood WD012
+#C8B6A5 Drought BR76-028-076
+#F9E8D1 Dutch White Y93-034-082
+#4E5053 Ebony Clay N34-006-264
+#DED8CC Ecru White G88-016-094
+#E7E0D7 Eighth Akaroa Y89-013-080
+#C7C1B8 Eighth Arrowtown Y78-012-084
+#E6E4DE Eighth Ash N91-007-097
+#EFE7DF Eighth Biscotti Y93-012-075
+#E2DCD5 Eighth Bison Hide Y88-011-080
+#F6F5F2 Eighth Black White N97-004-098
+#F1ECE6 Eighth Blanc N94-008-084
+#E9DCCB Eighth Canterbury Clay Y88-023-082
+#E6DED4 Eighth Drought Y89-013-082
+#EEE7DE Eighth Fossil Y92-009-077
+#CBC6C1 Eighth Friar Greystone N80-008-082
+#7F7B78 Eighth Ironsand N51-006-073
+#E6DDD5 Eighth Joss Y88-011-073
+#D1D2CC Eighth Lemon Grass G84-009-113
+#DBD0C5 Eighth Malta Y86-023-073
+#9F9D9A Eighth Masala N63-004-075
+#A29A92 Eighth Mondo BR64-014-075
+#DBD5CD Eighth Napa Y85-011-086
+#EEE9E1 Eighth Parchment Y93-011-089
+#EDE1D0 Eighth Pavlova Y90-024-086
+#F8F6F1 Eighth Pearl Lusta N97-006-097
+#CEC8C0 Eighth Pravda Y81-011-079
+#F8F6F1 Eighth Rice Cake N96-006-095
+#EDE4D9 Eighth Sisal Y91-016-083
+#F5EEE6 Eighth Spanish White Y94-010-075
+#C9C5C0 Eighth Stonehenge N79-006-075
+#C0BAB0 Eighth Stonewall Y76-014-083
+#E5E2DA Eighth Tana G90-010-096
+#C3C2BE Eighth Tapa N78-005-103
+#E7E3DE Eighth Tea N90-005-072
+#F3F0EA Eighth Thorndon Cream N94-007-096
+#E8E4DF Eighth Truffle N90-007-078
+#F4F1EA Eighth Wheatfield G95-009-091
+#454748 Element N30-002-253
+#735F48 English Walnut WW8
+#B9B7B1 Foggy Grey G74-008-101
+#D8CDBD Fossil Y84-023-085
+#4C4F52 Foundry N33-007-254
+#9B9690 Friar Greystone Y62-010-086
+#555556 Fuscous Grey N36-002-289
+#A79585 Gargoyle BR63-027-071
+#8B8985 Gauntlet N57-006-087
+#D1D6D8 Geyser N85-004-213
+#F9EAD6 Gin Fizz Y94-028-083
+#636360 Gravel N42-005-114
+#ACB1B5 Grey Chateau N73-006-251
+#57595C Grey Friars N35-004-253
+#B4AA97 Grey Olive Y70-027-089
+#B2BABD Gull Grey N75-008-229
+#8F908D Gunsmoke N60-005-127
+#D6CCBD Half Akaroa Y83-021-084
+#F6F6F3 Half Alabaster N97-003-099
+#EBE6DE Half Albescent White Y91-010-082
+#AAA195 Half Arrowtown Y67-019-084
+#D4CFC6 Half Ash G83-012-093
+#E7E7E4 Half Athens Grey N91-003-107
+#CACAC6 Half Atmosphere N81-005-110
+#6A6B6D Half Baltic Sea N46-002-264
+#EDECE9 Half Barely There N94-006-096
+#F8F5EE Half Bianca N96-008-093
+#E1D3C8 Half Biscotti BR86-018-072
+#D4C9BD Half Bison Hide Y81-018-082
+#F0EFEC Half Black White N94-004-096
+#E7DFD8 Half Blanc Y91-011-080
+#504E4F Half Bokara Grey N33-002-017
+#DCC7AC Half Canterbury Clay Y80-044-078
+#F0EBE2 Half Cararra G92-014-090
+#DDD5C8 Half Caraway Y86-017-085
+#D9D4CE Half Cloud N85-009-079
+#F4E3C9 Half Colonial White Y92-044-086
+#E7E5E4 Half Concrete N91-001-126
+#C8C0B6 Half Cougar Y78-014-082
+#B9B0A3 Half Craigieburn Y72-018-083
+#BCBDB9 Half Delta G76-011-122
+#D4C7B8 Half Drought Y81-023-077
+#FCEEDB Half Dutch White Y94-027-084
+#E6E1D7 Half Ecru White G90-013-091
+#C6C5C0 Half Foggy Grey N80-007-098
+#E1D7CB Half Fossil Y87-016-081
+#AAA7A2 Half Friar Greystone N69-008-089
+#666668 Half Fuscous Grey N42-002-345
+#73736F Half Gravel N48-007-109
+#BCC0C4 Half Grey Chateau N78-006-255
+#676A6D Half Grey Friars N45-005-261
+#BFB7A8 Half Grey Olive Y74-021-087
+#E9D6C1 Half Haystack Y87-031-077
+#E7E7E5 Half House White N92-003-109
+#DBDDDF Half Iron N88-002-237
+#5E5A57 Half Ironsand N38-005-056
+#E8E3D9 Half Joanna G90-014-092
+#BCBAB0 Half Lemon Grass G75-014-106
+#D6D1C6 Half Linen G84-015-093
+#C4B4A8 Half Malta BR74-020-069
+#7E7A76 Half Masala BR51-008-073
+#EEEBE6 Half Merino N94-006-090
+#ECE9E3 Half Milk White N92-007-080
+#7A7067 Half Mondo BR48-016-073
+#C3C1C0 Half Mountain Mist N78-003-063
+#C2BAAF Half Napa Y76-014-081
+#F7F4EC Half Orchid White G96-010-092
+#E5DCCD Half Parchment Y88-023-090
+#D5C6B0 Half Pavlova Y81-031-084
+#F8F1E6 Half Pearl Lusta Y95-012-089
+#C7BFB8 Half Perfect Taupe BR78-010-068
+#B1A9A0 Half Pravda Y69-014-081
+#D3D1D0 Half Rakaia N84-002-038
+#989EA3 Half Raven N65-007-250
+#F3F0EA Half Rice Cake N95-007-092
+#E4DBD2 Half Sandspit Brown Y88-012-079
+#9E968E Half Sandstone BR62-013-071
+#EFEDEA Half Sea Fog N94-005-102
+#C5C7C5 Half Silver Chalice N80-002-146
+#DECFBD Half Sisal Y84-025-082
+#F3E7D8 Half Solitaire Y93-020-080
+#ECE3D5 Half Spanish White Y91-020-082
+#AAACAB Half Stack N70-002-168
+#A9A39E Half Stonehenge BR67-008-074
+#A59D90 Half Stonewall Y64-017-083
+#D2D3D3 Half Surrender N85-002-225
+#D5D0C4 Half Tana G83-016-094
+#A5A39C Half Tapa G66-009-097
+#B0ADA6 Half Taupe Grey Y71-009-090
+#D9D2C7 Half Tea Y85-015-083
+#E9E4DB Half Thorndon Cream G91-012-093
+#E5E1D8 Half Titania G90-011-092
+#D6D0C9 Half Truffle Y84-009-084
+#6F7378 Half Tuna N49-007-256
+#F2EDE3 Half Villa White G94-013-091
+#EDECE8 Half Wan White N93-004-098
+#EFE7DA Half Wheatfield Y92-018-086
+#E9E7E2 Half White Pointer N91-005-090
+#E6CEB3 Haystack Y84-041-077
+#B27145 Heartwood WW0809
+#E4E2DF House White N90-003-092
+#6D655C Iroko WD005
+#D3D6D8 Iron N86-002-236
+#4F4E4D Ironsand N36-003-056
+#DED8CC Joanna G88-016-094
+#CFCCC0 Kangaroo G83-014-097
+#ADAEAB Kensington Grey N71-004-124
+#5F6265 Landscape Grey N46-005-253
+#AFAD9F Lemon Grass G70-019-106
+#61554F Lignite BR34-021-058
+#CBC5B6 Linen G80-020-097
+#B5A79A Malta BR70-023-073
+#706C67 Masala BR45-009-077
+#E8E4DE Merino Y91-009-076
+#E4E1DB Milk White N90-007-075
+#604E48 Mission Brown BR33-025-045
+#716960 Mondo BR43-014-073
+#B0AEAD Mountain Mist N71-003-088
+#B6AB9D Napa Y70-020-082
+#AF7F46 Natural WD026
+#3B3B3B Nero N25-001-046
+#505153 Nocturnal N34-002-275
+#785743 Nutmeg WW16
+#BDBAB1 Off Piste G76-011-096
+#786C64 Oilskin BR46-016-062
+#F8F1E5 Orchid White Y96-015-089
+#DBD1C2 Parchment Y86-022-086
+#CCBAA0 Pavlova Y77-038-083
+#F2EADC Pearl Lusta Y94-018-087
+#BBB0A9 Perfect Taupe BR73-014-067
+#BFA586 Piha Sand BR71-048-077
+#403E3C Pitch Black WD039
+#4C4C4B Porter N32-001-088
+#EEEEED Poured Milk N94-001-128
+#9D948A Pravda BR62-017-079
+#E0D7CB Quarter Akaroa Y86-017-086
+#F7F7F4 Quarter Alabaster N97-004-102
+#F0ECE6 Quarter Albescent White Y94-010-085
+#B9B1A7 Quarter Arrowtown Y72-014-085
+#DFDAD2 Quarter Ash G87-010-094
+#F8F6F1 Quarter Bianca N97-006-097
+#E8DCD1 Quarter Biscotti Y88-017-075
+#DAD2C8 Quarter Bison Hide Y84-014-085
+#F3F3F0 Quarter Black White N96-004-100
+#EDE7E1 Quarter Blanc N93-008-081
+#E1D1BD Quarter Canterbury Clay Y82-040-079
+#EAE7E4 Quarter Concrete N92-003-089
+#D5CEC6 Quarter Cougar Y83-011-077
+#C8C0B5 Quarter Craigieburn Y79-016-082
+#CACAC7 Quarter Delta N81-004-117
+#E0D4C8 Quarter Drought Y85-018-077
+#FAF1E4 Quarter Dutch White Y96-018-085
+#EBE7DF Quarter Ecru White G92-010-091
+#D3D2CD Quarter Foggy Grey N84-005-098
+#E7DED3 Quarter Fossil Y89-015-082
+#B9B6B1 Quarter Friar Greystone N74-006-088
+#76787A Quarter Fuscous Grey N50-004-271
+#888782 Quarter Gravel N56-008-106
+#CCCFD2 Quarter Grey Chateau N83-004-245
+#75797D Quarter Grey Friars N51-007-260
+#EAEBEA Quarter Iron N93-001-154
+#6A6664 Quarter Ironsand N44-006-063
+#ECE8DF Quarter Joanna Y92-010-090
+#D7CDC4 Quarter Joss BR82-013-065
+#C7C7BE Quarter Lemon Grass G80-013-109
+#DFDCD3 Quarter Linen G88-011-094
+#D2C5B9 Quarter Malta BR79-019-069
+#8B8987 Quarter Masala N56-004-072
+#F2EFEB Quarter Merino N95-005-084
+#F1EDE9 Quarter Milk White N94-005-075
+#948A80 Quarter Mondo BR59-020-076
+#D0C8BE Quarter Napa Y81-013-083
+#EBE4D8 Quarter Parchment Y91-016-088
+#E6D8C2 Quarter Pavlova Y87-029-084
+#F9F4EB Quarter Pearl Lusta G96-012-092
+#D5CFCA Quarter Perfect Taupe N83-008-067
+#C2B9AF Quarter Pravda BR75-013-078
+#DEDEDD Quarter Rakaia N88-002-073
+#F5F4EF Quarter Rice Cake N96-006-096
+#DFE2DB Quarter Sandspit Brown Y91-010-078
+#AEA7A1 Quarter Sandstone BR69-010-071
+#D2D4D2 Quarter Silver Chalice N84-002-149
+#E7DCCE Quarter Sisal Y88-021-084
+#F2EBE2 Quarter Solitaire Y94-014-081
+#F2EBE0 Quarter Spanish White Y93-015-083
+#BDBEBD Quarter Stack N77-002-152
+#BCB6B1 Quarter Stonehenge BR75-009-075
+#B8AFA3 Quarter Stonewall Y72-017-084
+#DDDFDE Quarter Surrender N89-002-179
+#DEDAD0 Quarter Tana G87-014-095
+#B3B3AE Quarter Tapa N73-006-106
+#C0BDB7 Quarter Taupe Grey G77-008-093
+#E2DDD6 Quarter Tea Y89-010-084
+#EFEBE3 Quarter Thorndon Cream G93-011-091
+#DED9D4 Quarter Truffle N87-007-077
+#F5F1EA Quarter Villa White Y95-010-090
+#F2F1EE Quarter Wan White N95-004-098
+#F2ECE3 Quarter Wheatfield G94-012-091
+#ECEAE6 Quarter White Pointer N93-006-091
+#C7C5C5 Rakaia N80-002-054
+#82888E Raven B58-009-256
+#5B5652 Relic N39-008-075
+#EFEBE3 Rice Cake G94-010-092
+#B6ADA4 Rockbottom BR71-014-077
+#C4B1A0 Sandcastle BR73-028-069
+#D9CEC3 Sandspit Brown Y84-017-074
+#90857A Sandstone BR56-018-073
+#E9E7E3 Sea Fog N92-005-100
+#E6E5E7 Seashell N92-001-292
+#494543 Sheer Black WW0801
+#B9BAB8 Silver Chalice N76-003-139
+#CFC3B1 Sisal Y80-027-081
+#7A736B Smokey Ash WW22
+#F1E2D1 Solitaire Y90-023-077
+#E8DBCB Spanish White Y88-024-082
+#61605C Squall N38-006-103
+#999C9B Stack N65-003-154
+#606367 Steel Grey N42-006-256
+#99928C Stonehenge BR61-012-073
+#958B7C Stonewall Y59-023-083
+#A1968C Stonewashed BR61-017-070
+#C5C7C8 Surrender N80-002-228
+#C5C0B1 Tana G78-019-095
+#8F8E88 Tapa G60-010-102
+#9F9A91 Taupe Grey Y64-013-087
+#CEC4B8 Tea Y81-019-081
+#DFD9CE Thorndon Cream Y87-016-090
+#555250 Tiri WW0811
+#DBD6CC Titania G84-012-095
+#81807C Traffic N54-006-109
+#52463E Treehouse WD037
+#B6A792 Triple Akaroa Y69-029-083
+#B3AC9D Triple Ash G69-019-091
+#AD9F8D Triple Bison Hide Y66-027-082
+#E0DED9 Triple Black White N87-006-094
+#D7CCBF Triple Blanc Y83-019-079
+#C7C7C6 Triple Concrete N79-002-103
+#7F7970 Triple Friar Greystone Y51-013-084
+#5C5853 Triple Masala Y38-008-082
+#DAD6CF Triple Merino Y86-009-083
+#95887A Triple Napa BR58-022-076
+#C8BBA8 Triple Parchment Y75-027-079
+#EFE1CD Triple Pearl Lusta Y91-029-084
+#E6E0D5 Triple Rice Cake Y90-016-087
+#DCDAD4 Triple Sea Fog N87-007-094
+#B8A690 Triple Sisal BR68-032-078
+#DDC9B3 Triple Spanish White Y83-035-081
+#7C756D Triple Stonehenge BR50-014-072
+#B9AD9D Triple Tea BR72-022-079
+#CFC7BA Triple Thorndon Cream Y81-018-086
+#ACA69E Triple Truffle Y69-012-082
+#CFCAC2 Triple White Pointer Y83-012-088
+#C9C2BA Truffle Y78-011-083
+#5B5F64 Tuna N39-008-260
+#EFE8DB Villa White Y92-018-087
+#E9E5E3 Vista White N91-004-046
+#E8E6E1 Wan White N93-005-105
+#E7DECE Wheatfield Y89-023-088
+#F7F8F5 White N97-006-096
+#ECE6E2 White Linen N93-007-073
+#E1DDD7 White Pointer N89-007-087
+#D7D4D4 Whiteout N86-003-062
+#DBCBB8 Whitewash -
+#525350 Zeus N35-004-121

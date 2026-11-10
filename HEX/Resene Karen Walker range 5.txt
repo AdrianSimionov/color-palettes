@@ -1,42 +1,42 @@
-#E9E1D7 Resene Albescent White Y90-013-085
-#CDCCBC Resene Beryl Green G82-021-109
-#D7C5C2 Resene Blanched Pink BR81-013-041
-#F2E8DB Resene Bleach White Y93-018-082
-#F5EEE2 Resene Buttery White Y95-015-090
-#EE8756 Resene Clementine Orange O67-128-051
-#9BA4A9 Resene Clouded Blue B67-010-230
-#CFD5C1 Resene Cooled Green G85-026-121
-#ABA26F Resene Crisp Green G66-065-100
-#9A8676 Resene Donkey Brown BR57-027-064
-#DED8CC Resene Ecru White G88-016-094
-#B9B7B1 Resene Foggy Grey G74-008-101
-#555556 Resene Fuscous Grey N36-002-289
-#D9C8B8 Resene Grain Brown Y82-025-072
-#D8D9CB Resene Half Beryl Green G86-016-113
-#CBD0CD Resene Half Periglacial Blue G82-009-187
-#BCC5BF Resene Half Robin Egg Blue G79-011-153
-#6A8A91 Resene Half Smalt Blue B55-028-217
-#ADB2A6 Resene Half Washed Green G72-016-143
-#A99F96 Resene Heathered Grey BR66-015-077
-#A9998D Resene Jetsam Brown BR64-021-066
-#5D5753 Resene Kina Brown N38-008-058
-#E4E1DB Resene Milk White N90-007-075
-#BCC3C1 Resene Periglacial Blue G79-008-167
-#A5B0B3 Resene Powder Blue B72-011-221
-#E1E1D7 Resene Quarter Beryl Green G89-013-111
-#C9C195 Resene Quarter Crisp Green G78-055-100
-#C8C1B9 Resene Quarter Heathered Grey BR79-013-079
-#D6DCD8 Resene Quarter Periglacial Blue N87-006-176
-#C5CDCF Resene Quarter Powder Blue N81-008-221
-#D0D5CD Resene Quarter Robin Egg Blue G85-010-136
-#CCB39E Resene Quarter Sorrell Brown Y75-039-067
-#B1B9B1 Resene Robin Egg Blue G74-013-143
-#D9CEC3 Resene Sandspit Brown Y84-017-074
-#84534D Resene Sanguine Brown R40-053-028
-#3C5061 Resene Shadowy Blue B34-028-255
-#8B9790 Resene Smoky Green G62-013-154
-#B1937B Resene Sorrell Brown BR63-044-067
-#9F9A91 Resene Taupe Grey Y64-013-087
-#E8E6E1 Resene Wan White N93-005-105
-#CC824B Resene Weathered Orange O61-110-061
-#E8DCAF Resene Weathered Yellow G88-055-097
+#E9E1D7 Albescent White Y90-013-085
+#CDCCBC Beryl Green G82-021-109
+#D7C5C2 Blanched Pink BR81-013-041
+#F2E8DB Bleach White Y93-018-082
+#F5EEE2 Buttery White Y95-015-090
+#EE8756 Clementine Orange O67-128-051
+#9BA4A9 Clouded Blue B67-010-230
+#CFD5C1 Cooled Green G85-026-121
+#ABA26F Crisp Green G66-065-100
+#9A8676 Donkey Brown BR57-027-064
+#DED8CC Ecru White G88-016-094
+#B9B7B1 Foggy Grey G74-008-101
+#555556 Fuscous Grey N36-002-289
+#D9C8B8 Grain Brown Y82-025-072
+#D8D9CB Half Beryl Green G86-016-113
+#CBD0CD Half Periglacial Blue G82-009-187
+#BCC5BF Half Robin Egg Blue G79-011-153
+#6A8A91 Half Smalt Blue B55-028-217
+#ADB2A6 Half Washed Green G72-016-143
+#A99F96 Heathered Grey BR66-015-077
+#A9998D Jetsam Brown BR64-021-066
+#5D5753 Kina Brown N38-008-058
+#E4E1DB Milk White N90-007-075
+#BCC3C1 Periglacial Blue G79-008-167
+#A5B0B3 Powder Blue B72-011-221
+#E1E1D7 Quarter Beryl Green G89-013-111
+#C9C195 Quarter Crisp Green G78-055-100
+#C8C1B9 Quarter Heathered Grey BR79-013-079
+#D6DCD8 Quarter Periglacial Blue N87-006-176
+#C5CDCF Quarter Powder Blue N81-008-221
+#D0D5CD Quarter Robin Egg Blue G85-010-136
+#CCB39E Quarter Sorrell Brown Y75-039-067
+#B1B9B1 Robin Egg Blue G74-013-143
+#D9CEC3 Sandspit Brown Y84-017-074
+#84534D Sanguine Brown R40-053-028
+#3C5061 Shadowy Blue B34-028-255
+#8B9790 Smoky Green G62-013-154
+#B1937B Sorrell Brown BR63-044-067
+#9F9A91 Taupe Grey Y64-013-087
+#E8E6E1 Wan White N93-005-105
+#CC824B Weathered Orange O61-110-061
+#E8DCAF Weathered Yellow G88-055-097

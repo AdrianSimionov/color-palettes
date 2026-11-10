@@ -1,61 +1,61 @@
-#EEB5CF Resene Ballerina V78-058-342
-#B46886 Resene Bedazzle M54-081-355
-#5A81A6 Resene Blue Jeans B53-058-263
-#FFC33F Resene Bright Spark Y83-168-082
-#FFE473 Resene Buzz G92-140-093
-#C34249 Resene Candy Floss R46-132-022
-#944C7D Resene Carnival V43-099-337
-#BF3F34 Resene Chaos R44-148-034
-#B1496E Resene Colour Me Pink R46-109-000
-#F5F4F1 Resene Cotton Wool N96-006-099
-#9F92CD Resene Dancing Girl V64-080-301
-#A1C942 Resene Dizzy Lizzy G76-163-118
-#D8E9F2 Resene Dreamer B91-019-237
-#B87598 Resene Enchanted M60-078-344
-#DBD8EF Resene Fairylight V87-030-296
-#8475B7 Resene Ferris Wheel V53-093-303
-#FFC80B Resene Fizz Y84-198-087
-#DEC6DD Resene Flower Power V83-035-325
-#7A6EA6 Resene Funtasia M48-091-301
-#D04435 Resene Get Reddy R49-160-036
-#B8565E Resene Glitterbug M50-100-022
-#93B474 Resene Go Go Go M73-080-131
-#6F61A3 Resene Gobstopper V44-095-303
-#FC8D2F Resene Hi Jinx O69-171-062
-#D88BA9 Resene Hopskotch V67-072-354
-#4B9245 Resene Kermit G55-122-138
-#BBD941 Resene Lickety Split G82-173-113
-#E0ECB5 Resene Lucky Dip G91-067-117
-#D4CF1B Resene Neva G80-187-101
-#F06935 Resene Orang-atan O61-167-048
-#C0647E Resene Pink Panther R53-084-002
-#EEDAE0 Resene Pretty In Pink R90-016-359
-#EEC6D3 Resene Princess R84-034-358
-#963B3A Resene Razzamatazz R37-107-030
-#AD4036 Resene Rocket R41-126-033
-#1C61A2 Resene Sea World B40-097-275
-#E2E2B7 Resene Sherbert G89-055-110
-#E1DD5C Resene Shooting Star G90-165-091
-#E0EAE9 Resene Slipper R94-008-031
-#FFEA96 Resene Smiles G94-108-095
-#31B8E4 Resene Snap B70-088-235
-#D0D1D0 Resene So Cool M83-003-232
-#F9EAD6 Resene Soft Whisper Y94-028-083
-#F8F1E5 Resene Softly Softly Y96-015-089
-#C0A077 Resene Solid Gold M69-066-078
-#AED8F1 Resene Splat B84-042-243
-#0080B9 Resene Splish Splash B48-102-250
-#00A5D8 Resene Sports Star B62-098-238
-#B68BAA Resene Sugar And Spice M67-062-336
-#2886C5 Resene Super Duper B53-094-264
-#38466D Resene Surfs Up B29-058-284
-#D3DFF1 Resene Three Wishes B89-022-266
-#9AB639 Resene Top Secret G70-153-114
-#B3D39C Resene Tutti Frutti G82-077-130
-#AAADDD Resene Unicorn V72-063-292
-#00679F Resene Wet N Wild B49-089-260
-#6EB94D Resene Wham G69-148-130
-#009FA6 Resene Yabbadabbadoo G60-087-202
-#09A8CB Resene Yeehaa M59-082-236
-#CACDE3 Resene Zappo V83-028-285
-#3E7FB1 Resene Zoop De Loop M52-085-267
+#EEB5CF Ballerina V78-058-342
+#B46886 Bedazzle M54-081-355
+#5A81A6 Blue Jeans B53-058-263
+#FFC33F Bright Spark Y83-168-082
+#FFE473 Buzz G92-140-093
+#C34249 Candy Floss R46-132-022
+#944C7D Carnival V43-099-337
+#BF3F34 Chaos R44-148-034
+#B1496E Colour Me Pink R46-109-000
+#F5F4F1 Cotton Wool N96-006-099
+#9F92CD Dancing Girl V64-080-301
+#A1C942 Dizzy Lizzy G76-163-118
+#D8E9F2 Dreamer B91-019-237
+#B87598 Enchanted M60-078-344
+#DBD8EF Fairylight V87-030-296
+#8475B7 Ferris Wheel V53-093-303
+#FFC80B Fizz Y84-198-087
+#DEC6DD Flower Power V83-035-325
+#7A6EA6 Funtasia M48-091-301
+#D04435 Get Reddy R49-160-036
+#B8565E Glitterbug M50-100-022
+#93B474 Go Go Go M73-080-131
+#6F61A3 Gobstopper V44-095-303
+#FC8D2F Hi Jinx O69-171-062
+#D88BA9 Hopskotch V67-072-354
+#4B9245 Kermit G55-122-138
+#BBD941 Lickety Split G82-173-113
+#E0ECB5 Lucky Dip G91-067-117
+#D4CF1B Neva G80-187-101
+#F06935 Orang-atan O61-167-048
+#C0647E Pink Panther R53-084-002
+#EEDAE0 Pretty In Pink R90-016-359
+#EEC6D3 Princess R84-034-358
+#963B3A Razzamatazz R37-107-030
+#AD4036 Rocket R41-126-033
+#1C61A2 Sea World B40-097-275
+#E2E2B7 Sherbert G89-055-110
+#E1DD5C Shooting Star G90-165-091
+#E0EAE9 Slipper R94-008-031
+#FFEA96 Smiles G94-108-095
+#31B8E4 Snap B70-088-235
+#D0D1D0 So Cool M83-003-232
+#F9EAD6 Soft Whisper Y94-028-083
+#F8F1E5 Softly Softly Y96-015-089
+#C0A077 Solid Gold M69-066-078
+#AED8F1 Splat B84-042-243
+#0080B9 Splish Splash B48-102-250
+#00A5D8 Sports Star B62-098-238
+#B68BAA Sugar And Spice M67-062-336
+#2886C5 Super Duper B53-094-264
+#38466D Surfs Up B29-058-284
+#D3DFF1 Three Wishes B89-022-266
+#9AB639 Top Secret G70-153-114
+#B3D39C Tutti Frutti G82-077-130
+#AAADDD Unicorn V72-063-292
+#00679F Wet N Wild B49-089-260
+#6EB94D Wham G69-148-130
+#009FA6 Yabbadabbadoo G60-087-202
+#09A8CB Yeehaa M59-082-236
+#CACDE3 Zappo V83-028-285
+#3E7FB1 Zoop De Loop M52-085-267
