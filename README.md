@@ -6,6 +6,17 @@
 | Apple | [CLR](CLR/Apple.clr?raw=1) | [ASE](ASE/Apple.ase?raw=1) | [ACO](ACO/Apple.aco?raw=1) |
 | Colors of Japan | [CLR](CLR/Colors%20of%20Japan.clr?raw=1) | [ASE](ASE/Colors%20of%20Japan.ase?raw=1) | [ACO](ACO/Colors%20of%20Japan.aco?raw=1) |
 | Open Color | [CLR](CLR/Open%20Color.clr?raw=1) | [ASE](ASE/Open%20Color.ase?raw=1) | [ACO](ACO/Open%20Color.aco?raw=1) |
+| Red Colours | [CLR](CLR/Red%20Colours.clr?raw=1) | [ASE](ASE/Red%20Colours.ase?raw=1) | [ACO](ACO/Red%20Colours.aco?raw=1) |
+| Orange Colours | [CLR](CLR/Orange%20Colours.clr?raw=1) | [ASE](ASE/Orange%20Colours.ase?raw=1) | [ACO](ACO/Orange%20Colours.aco?raw=1) |
+| Yellow Colours | [CLR](CLR/Yellow%20Colours.clr?raw=1) | [ASE](ASE/Yellow%20Colours.ase?raw=1) | [ACO](ACO/Yellow%20Colours.aco?raw=1) |
+| Green Colours | [CLR](CLR/Green%20Colours.clr?raw=1) | [ASE](ASE/Green%20Colours.ase?raw=1) | [ACO](ACO/Green%20Colours.aco?raw=1) |
+| Blue Colours | [CLR](CLR/Blue%20Colours.clr?raw=1) | [ASE](ASE/Blue%20Colours.ase?raw=1) | [ACO](ACO/Blue%20Colours.aco?raw=1) |
+| Purple Colours | [CLR](CLR/Purple%20Colours.clr?raw=1) | [ASE](ASE/Purple%20Colours.ase?raw=1) | [ACO](ACO/Purple%20Colours.aco?raw=1) |
+| Pink Colours | [CLR](CLR/Pink%20Colours.clr?raw=1) | [ASE](ASE/Pink%20Colours.ase?raw=1) | [ACO](ACO/Pink%20Colours.aco?raw=1) |
+| Brown Colours | [CLR](CLR/Brown%20Colours.clr?raw=1) | [ASE](ASE/Brown%20Colours.ase?raw=1) | [ACO](ACO/Brown%20Colours.aco?raw=1) |
+| Black Colours | [CLR](CLR/Black%20Colours.clr?raw=1) | [ASE](ASE/Black%20Colours.ase?raw=1) | [ACO](ACO/Black%20Colours.aco?raw=1) |
+| Gray Colours | [CLR](CLR/Gray%20Colours.clr?raw=1) | [ASE](ASE/Gray%20Colours.ase?raw=1) | [ACO](ACO/Gray%20Colours.aco?raw=1) |
+| White Colours | [CLR](CLR/White%20Colours.clr?raw=1) | [ASE](ASE/White%20Colours.ase?raw=1) | [ACO](ACO/White%20Colours.aco?raw=1) |
 
 ### About
 

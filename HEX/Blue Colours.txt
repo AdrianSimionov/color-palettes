@@ -1,0 +1,50 @@
+#3944BC BLUE
+#757C88 SLATE
+#63C5DA SKY
+#0A1172 NAVY
+#281E5D INDIGO
+#1338BE COBALT
+#48AAAD TEAL
+#016064 OCEAN
+#022D36 PEACOCK
+#1520A6 AZURE
+#0492C2 CERULEAN
+#2832C2 LAPIS
+#2C3E4C SPRUCE
+#59788E STONE
+#1F456E AEGEAN
+#241571 BLUEBERRY
+#151E3D DENIM
+#051094 ADMIRAL
+#52B2BF SAPPHIRE
+#82EEFD ARCTIC
+#40E0D0 TURQUOISE
+#4682B4 STEEL
+#2E5894 B’DAZZLED
+#B0E0E6 Powder blue
+#004F98 US Air Force Academy blue
+#89CFF0 Baby blue
+#BCD4E6 Beau blue
+#6CA0DC Little Boy blue
+#81D8D0 Tiffany blue
+#4B9CD3 Carolina blue
+#4F97A3 Turkish blue
+#73C2FB Maya blue
+#6495ED Cornflower blue
+#126180 Blue Sapphire
+#1034A6 Egyptian blue
+#00356B Yale blue
+#1D2951 Space Cadet
+#005A92 Imperial blue
+#76ABDF Ruddy blue
+#72A0C1 Air Superiority Blue
+#6BCAE2 Aquamarine Blue
+#6CB4EE Argentina Blue
+#002D62 Astros Navy
+#0066B2 Bayern Blue
+#4F86F7 Berry Blue
+#5072A7 Blue Yonder
+#318CE7 Bleu de France
+#6699CC Blue-Gray
+#0039A6 Boeing Blue
+#13274F Braves Navy
