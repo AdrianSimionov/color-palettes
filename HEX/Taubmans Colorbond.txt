@@ -1,0 +1,25 @@
+#6D6C6E CB68 - Basalt
+#969799 CB76 - Bluegum
+#E9DCB8 CB15 - Classic Cream
+#304C3C CB17 - Cottage Green
+#364152 CB24 - Deep Ocean
+#F9FBF1 CB74 - Dover White
+#B1ADA3 CB04 - Dune
+#514737 CB113 - Estate
+#C5C2AA CB64 - Evening Haze
+#776F62 CB 70 - GULLY
+#975540 CB 25 - Headland
+#3E434C CB63 - Ironstone
+#6C6153 CB58 - Jasper
+#44393D CB 65 - Loft
+#5E1D0E CB16 - Manor Red
+#323233 CB66 - Monument
+#000000 CB20 - Night Sky
+#7C846A CB12 - Pale Eucalypt
+#CABFA4 CB05 - Paperbark
+#BDBFBA CB21 - Shale Grey
+#D2D1CB CB78 - Southerly
+#E4E2D5 CB23 - Surfmist
+#7F7C78 CB73 - Wallaby
+#888B8A CB13 - Windspray
+#4B4C46 CB03 - Woodland Grey

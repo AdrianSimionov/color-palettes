@@ -6,6 +6,16 @@
 | Apple | [CLR](CLR/Apple.clr?raw=1) | [ASE](ASE/Apple.ase?raw=1) | [ACO](ACO/Apple.aco?raw=1) |
 | Colors of Japan | [CLR](CLR/Colors%20of%20Japan.clr?raw=1) | [ASE](ASE/Colors%20of%20Japan.ase?raw=1) | [ACO](ACO/Colors%20of%20Japan.aco?raw=1) |
 | Open Color | [CLR](CLR/Open%20Color.clr?raw=1) | [ASE](ASE/Open%20Color.ase?raw=1) | [ACO](ACO/Open%20Color.aco?raw=1) |
+| Taubmans Whites & Neutrals | [CLR](CLR/Taubmans%20Whites%20%26%20Neutrals.clr?raw=1) | [ASE](ASE/Taubmans%20Whites%20%26%20Neutrals.ase?raw=1) | [ACO](ACO/Taubmans%20Whites%20%26%20Neutrals.aco?raw=1) |
+| Taubmans Greys & Blacks | [CLR](CLR/Taubmans%20Greys%20%26%20Blacks.clr?raw=1) | [ASE](ASE/Taubmans%20Greys%20%26%20Blacks.ase?raw=1) | [ACO](ACO/Taubmans%20Greys%20%26%20Blacks.aco?raw=1) |
+| Taubmans Browns | [CLR](CLR/Taubmans%20Browns.clr?raw=1) | [ASE](ASE/Taubmans%20Browns.ase?raw=1) | [ACO](ACO/Taubmans%20Browns.aco?raw=1) |
+| Taubmans Yellow | [CLR](CLR/Taubmans%20Yellow.clr?raw=1) | [ASE](ASE/Taubmans%20Yellow.ase?raw=1) | [ACO](ACO/Taubmans%20Yellow.aco?raw=1) |
+| Taubmans Green | [CLR](CLR/Taubmans%20Green.clr?raw=1) | [ASE](ASE/Taubmans%20Green.ase?raw=1) | [ACO](ACO/Taubmans%20Green.aco?raw=1) |
+| Taubmans Blue | [CLR](CLR/Taubmans%20Blue.clr?raw=1) | [ASE](ASE/Taubmans%20Blue.ase?raw=1) | [ACO](ACO/Taubmans%20Blue.aco?raw=1) |
+| Taubmans Purple | [CLR](CLR/Taubmans%20Purple.clr?raw=1) | [ASE](ASE/Taubmans%20Purple.ase?raw=1) | [ACO](ACO/Taubmans%20Purple.aco?raw=1) |
+| Taubmans Pinks & Reds | [CLR](CLR/Taubmans%20Pinks%20%26%20Reds.clr?raw=1) | [ASE](ASE/Taubmans%20Pinks%20%26%20Reds.ase?raw=1) | [ACO](ACO/Taubmans%20Pinks%20%26%20Reds.aco?raw=1) |
+| Taubmans Orange | [CLR](CLR/Taubmans%20Orange.clr?raw=1) | [ASE](ASE/Taubmans%20Orange.ase?raw=1) | [ACO](ACO/Taubmans%20Orange.aco?raw=1) |
+| Taubmans Colorbond | [CLR](CLR/Taubmans%20Colorbond.clr?raw=1) | [ASE](ASE/Taubmans%20Colorbond.ase?raw=1) | [ACO](ACO/Taubmans%20Colorbond.aco?raw=1) |
 
 ### About
 
