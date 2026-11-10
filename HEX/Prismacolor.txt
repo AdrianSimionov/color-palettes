@@ -1,200 +1,200 @@
-#FCFFD4 PM-23 - Cream
-#F5F58C PM-131 - Deco Yellow
-#F7F703 PM-19 - Canary Yellow
-#FCF059 PM-21 - Tulip Yellow
-#FAF033 PM-17 - Sunburst Yellow
-#FFD473 PM-132 - Jasmine
-#FCD403 PM-18 - Yellow Ochre
-#FCD403 PM-123 - Spanish Orange
-#FCA803 PM-15 - Yellow Orange
-#FF6B12 PM-14 - Pale Vermilion
-#FF8C03 PM-16 - Orange
-#FF543D PM-13 - Poppy Red
-#FFBA8C PM-130 - Deco Orange
-#EDA670 PM-69 - Goldenrod
-#F5A640 PM-93 - Burnt Ochre
-#FFA830 PM-154 - Mineral Orange
-#DE532B PM-153 - Pumpkin Orange
-#FFDEDE PM-11 - Deco Peach
-#FFDED4 PM-12 - Light Peach
-#FFC4B8 PM-122 - Salmon Pink
-#FF8C8C PM-170 - Peach
-#FCDEC4 PM-78 - Brick Beige
-#EDC48C PM-70 - Sand
-#DB9485 PM-90 - Walnut
-#D46A72 PM-65 - Sienna Brown
-#69165B PM-150 - Mahogany Red
-#391716 PM-61 - Dark Umber
-#ED6B70 PM-82 - Terra Cotta
-#DE3F72 PM-86 - Cherry
-#FF578C PM-6 - Carmine Red
-#FF2670 PM-5 - Scarlet Lake
-#E10207 PM-4 - Crimson Red
-#B91861 PM-152 - Henna
-#AE0765 PM-151 - Raspberry
-#FFA8D4 PM-10 - Blush Pink
-#A96FB8 PM-73 - Flagstone Red
-#942D7B PM-169 - Tuscan Red
-#FC8CFF PM-1 - Process Red
-#FF70FF PM-8 - Pink
-#FF3DF5 PM-7 - Magenta
-#F503FC PM-55 - Rhodamine
-#C40DFF PM-53 - Mulberry
-#FFDEFF PM-133 - Deco Pink
-#F5BDDE PM-208 - Ballet Pink
-#C4B8FF PM-147 - Greyed Lavender
-#A6A6FF PM-171 - Lilac
-#D18AFF PM-137 - Clay Rose
-#2800DF PM-168 - Dark Purple
-#B8D4FF PM-60 - Violet Mist
-#708CFF PM-128 - Parma Violet
-#260FFC PM-50 - Violet
-#B8FFF5 PM-134 - Deco Blue
-#C7F2FF PM-48 - Light Cerulean Blue
-#82D1FF PM-202 - Sky Blue Light
-#69D4FF PM-39 - True Blue
-#4DB5FF PM-40 - Copenhagen Blue
-#577AF7 PM-127 - Imperial Violet
-#3370FA PM-44 - Ultramarine
-#2651ED PM-42 - Violet Blue
-#1F3EBB PM-43 - Indigo Blue
-#061D8F PM-45 - Navy Blue
-#D6EBFC PM-144 - Cloud Blue
-#CCE3FA PM-194 - Cold Stone
-#8FB8FC PM-145 - Blue Slate
-#6BA1ED PM-146 - Periwinkle
-#80BFFA PM-143 - Mediterranean Blue
-#80BAFF PM-126 - Cerulean Blue
-#2C76BA PM-125 - Peacock Blue
-#BDDEC4 PM-191 - Pale Jade
-#B2DEC2 PM-140 - Celadon Green
-#309471 PM-185 - Spruce Green
-#85BAC4 PM-142 - Brittany Blue
-#52A2A7 PM-38 - Teal Blue
-#B0E6F2 PM-198 - Muted Turquoise
-#99E8EB PM-47 - Light Blue
-#96E8DE PM-46 - Light Aqua
-#42C7B5 PM-37 - Aquamarine
-#BDFAB0 PM-166 - True Green
-#53E160 PM-165 - Grass Green
-#B5F587 PM-193 - Mint Cream
-#A1F57A PM-167 - Apple Green
-#65D723 PM-187 - Leaf Green
-#BAF0B0 PM-36 - Lime Green
-#85D48F PM-184 - Forest Green
-#2FCD2D PM-186 - Emerald
-#40B437 PM-31 - Dark Green
-#25A002 PM-195 - Spearmint
-#D6FF78 PM-27 - Chartreuse
-#D4FA5E PM-124 - Lime peel
-#B5FF05 PM-192 - Avocado
-#96F736 PM-25 - Spring Green
-#70C800 PM-197 - Green Tea
-#9AC55D PM-26 - Light Olive Green
-#4C9F16 PM-28 - Dark Olive Green
-#A6E0CC PM-141 - Jade Green
-#D1E0E3 PM-212 - Pewter
-#3FD781 PM-32 - Parrot Green
-#D6DED1 PM-206 - Ash Grey
-#DBDED6 PM-203 - Driftwood
-#F2F5CC PM-196 - Wheat
-#F5F0C4 PM-207 - Pale Peach
-#FAF5D6 PM-72 - Eggshell
-#FAF5C2 PM-96 - Blondwood
-#EBF0EB PM-71 - Buff
-#E0CF9E PM-201 - Cinnamon Toast
-#37430C PM-214 - Cocoa Bean
-#958E51 PM-199 - Mocha Light
-#93A58C PM-204 - Taupe
-#3E3E0A PM-200 - Mocha Dark
-#F5F2E3 PM-79 - Brick White
-#D4DB8C PM-210 - Oatmeal
-#D1DBBF PM-205 - Parchment
-#E6DED6 PM-80 - Putty
-#D9CCB5 PM-89 - Light Walnut
-#280D1A PM-213 - Eggplant
-#BBAC7E PM-95 - Light Tan
-#131817 PM-211 - Jet Black
-#757130 PM-62 - Sepia
-#69743A PM-172 - Light Umber
-#6F753B PM-88 - Dark Brown
-#BFC287 PM-209 - Khaki
-#FCFCFC PM-99 - Warm Grey 10%
-#EDF0F0 PM-100 - Warm Grey 20%
-#E8E8ED PM-101 - Warm Grey 30%
-#DEE0E3 PM-102 - Warm Grey 40%
-#B2BABF PM-103 - Warm Grey 50%
-#A6ADB5 PM-104 - Warm Grey 60%
-#757F86 PM-105 - Warm Grey 70%
-#4A4E57 PM-106 - Warm Grey 80%
-#23242B PM-107 - Warm Grey 90%
-#060808 PM-97 - Warm Black
-#F0F4F6 PM-108 - Cool Grey 10%
-#E5ECEF PM-109 - Cool Grey 20%
-#CFDCE3 PM-110 - Cool Grey 30%
-#BBC6CD PM-111 - Cool Grey 40%
-#A5B0B7 PM-112 - Cool Grey 50%
-#8BA0AC PM-113 - Cool Grey 60%
-#68808D PM-114 - Cool Grey 70%
-#516570 PM-115 - Cool Grey 80%
-#36464E PM-116 - Cool Grey 90%
-#060808 PM-98 - Black
-#F5F2F0 PM-155 - French Grey 10%
-#E8E8E6 PM-156 - French Grey 20%
-#CCCFC7 PM-157 - French Grey 30%
-#B5BAB8 PM-158 - French Grey 40%
-#A4A4A4 PM-159 - French Grey 50%
-#939898 PM-160 - French Grey 60%
-#757C7C PM-161 - French Grey 70%
-#4C5254 PM-162 - French Grey 80%
-#272A2C PM-163 - French Grey 90%
-#FFFFFF PM-121 - Colorless Blender
-#95A9A7 PM-117 - Metallic Silver Broad
-#95A9A7 PM-118 - Metallic Silver Fine
-#A2B157 PM-119 - Metallic Gold Broad
-#A2B157 PM-120 - Metallic Gold Fine
-#9AA900 PM-149 - Bronze
-#DDDCDD PM-216 - Neutral Grey 10%
-#C4C3C6 PM-217 - Neutral Grey 20%
-#AEACB0 PM-218 - Neutral Grey 30%
-#99979D PM-219 - Neutral Grey 40%
-#86848B PM-220 - Neutral Grey 50%
-#74737A PM-221 - Neutral Grey 60%
-#64636B PM-222 - Neutral Grey 70%
-#55565D PM-223 - Neutral Grey 80%
-#464951 PM-224 - Neutral Grey 90%
-#FBF1EA PM-24 - Almond Milk
-#F5DFE1 PM-3 - Ballet Pink Light
-#EECBCD PM-9 - Blush Pink Light
-#FFF699 PM-20 - Canary Yellow Light
-#E19D94 PM-260 - Carmine Red Light
-#F0CBA7 PM-230 - Deco Orange Light
-#F7E6EF PM-233 - Deco Pink Light
-#F1D8D5 PM-136 - Dusty Rose
-#E2DAEC PM-148 - Greyed Lavender Light
-#E4D5C0 PM-271 - Light Umber 20%
-#DECBB2 PM-272 - Light Umber 30%
-#D1BFAC PM-273 - Light Umber 40%
-#CBB6A1 PM-274 - Light Umber 50%
-#C4AD96 PM-275 - Light Umber 60%
-#BDA38A PM-276 - Light Umber 70%
-#B69B80 PM-277 - Light Umber 80%
-#8A7455 PM-278 - Light Umber 90%
-#9D96C5 PM-173 - Lilac Light
-#D5ADCD PM-52 - Mulberry Light
-#139ACA PM-179 - Neon Blue
-#A8C860 PM-181 - Neon Green
-#EFC253 PM-175 - Neon Orange
-#C36AA1 PM-177 - Neon Pink
-#FCE824 PM-174 - Neon Yellow
-#F6ED63 PM-180 - Neon Yellow Green
-#81BDB5 PM-33 - Parrot Green Light
-#E0A3C4 PM-280 - Pink Light
-#E7BBD4 PM-2 - Process Red Light
-#94247F PM-56 - Rhodamine Dark
-#D99BBF PM-54 - Rhodamine Light
-#1A83C5 PM-81 - Turquoise Dark
-#8AAEDC PM-244 - Ultramarine Light
-#D4B0E1 PM-41 - Violet Blue Light
-#3F3E8B PM-51 - Violet Dark
-#EFC253 PM-215 - Yellow Orange Light
+#FCFFD4 23 - Cream
+#F5F58C 131 - Deco Yellow
+#F7F703 19 - Canary Yellow
+#FCF059 21 - Tulip Yellow
+#FAF033 17 - Sunburst Yellow
+#FFD473 132 - Jasmine
+#FCD403 18 - Yellow Ochre
+#FCD403 123 - Spanish Orange
+#FCA803 15 - Yellow Orange
+#FF6B12 14 - Pale Vermilion
+#FF8C03 16 - Orange
+#FF543D 13 - Poppy Red
+#FFBA8C 130 - Deco Orange
+#EDA670 69 - Goldenrod
+#F5A640 93 - Burnt Ochre
+#FFA830 154 - Mineral Orange
+#DE532B 153 - Pumpkin Orange
+#FFDEDE 11 - Deco Peach
+#FFDED4 12 - Light Peach
+#FFC4B8 122 - Salmon Pink
+#FF8C8C 170 - Peach
+#FCDEC4 78 - Brick Beige
+#EDC48C 70 - Sand
+#DB9485 90 - Walnut
+#D46A72 65 - Sienna Brown
+#69165B 150 - Mahogany Red
+#391716 61 - Dark Umber
+#ED6B70 82 - Terra Cotta
+#DE3F72 86 - Cherry
+#FF578C 6 - Carmine Red
+#FF2670 5 - Scarlet Lake
+#E10207 4 - Crimson Red
+#B91861 152 - Henna
+#AE0765 151 - Raspberry
+#FFA8D4 10 - Blush Pink
+#A96FB8 73 - Flagstone Red
+#942D7B 169 - Tuscan Red
+#FC8CFF 1 - Process Red
+#FF70FF 8 - Pink
+#FF3DF5 7 - Magenta
+#F503FC 55 - Rhodamine
+#C40DFF 53 - Mulberry
+#FFDEFF 133 - Deco Pink
+#F5BDDE 208 - Ballet Pink
+#C4B8FF 147 - Greyed Lavender
+#A6A6FF 171 - Lilac
+#D18AFF 137 - Clay Rose
+#2800DF 168 - Dark Purple
+#B8D4FF 60 - Violet Mist
+#708CFF 128 - Parma Violet
+#260FFC 50 - Violet
+#B8FFF5 134 - Deco Blue
+#C7F2FF 48 - Light Cerulean Blue
+#82D1FF 202 - Sky Blue Light
+#69D4FF 39 - True Blue
+#4DB5FF 40 - Copenhagen Blue
+#577AF7 127 - Imperial Violet
+#3370FA 44 - Ultramarine
+#2651ED 42 - Violet Blue
+#1F3EBB 43 - Indigo Blue
+#061D8F 45 - Navy Blue
+#D6EBFC 144 - Cloud Blue
+#CCE3FA 194 - Cold Stone
+#8FB8FC 145 - Blue Slate
+#6BA1ED 146 - Periwinkle
+#80BFFA 143 - Mediterranean Blue
+#80BAFF 126 - Cerulean Blue
+#2C76BA 125 - Peacock Blue
+#BDDEC4 191 - Pale Jade
+#B2DEC2 140 - Celadon Green
+#309471 185 - Spruce Green
+#85BAC4 142 - Brittany Blue
+#52A2A7 38 - Teal Blue
+#B0E6F2 198 - Muted Turquoise
+#99E8EB 47 - Light Blue
+#96E8DE 46 - Light Aqua
+#42C7B5 37 - Aquamarine
+#BDFAB0 166 - True Green
+#53E160 165 - Grass Green
+#B5F587 193 - Mint Cream
+#A1F57A 167 - Apple Green
+#65D723 187 - Leaf Green
+#BAF0B0 36 - Lime Green
+#85D48F 184 - Forest Green
+#2FCD2D 186 - Emerald
+#40B437 31 - Dark Green
+#25A002 195 - Spearmint
+#D6FF78 27 - Chartreuse
+#D4FA5E 124 - Lime peel
+#B5FF05 192 - Avocado
+#96F736 25 - Spring Green
+#70C800 197 - Green Tea
+#9AC55D 26 - Light Olive Green
+#4C9F16 28 - Dark Olive Green
+#A6E0CC 141 - Jade Green
+#D1E0E3 212 - Pewter
+#3FD781 32 - Parrot Green
+#D6DED1 206 - Ash Grey
+#DBDED6 203 - Driftwood
+#F2F5CC 196 - Wheat
+#F5F0C4 207 - Pale Peach
+#FAF5D6 72 - Eggshell
+#FAF5C2 96 - Blondwood
+#EBF0EB 71 - Buff
+#E0CF9E 201 - Cinnamon Toast
+#37430C 214 - Cocoa Bean
+#958E51 199 - Mocha Light
+#93A58C 204 - Taupe
+#3E3E0A 200 - Mocha Dark
+#F5F2E3 79 - Brick White
+#D4DB8C 210 - Oatmeal
+#D1DBBF 205 - Parchment
+#E6DED6 80 - Putty
+#D9CCB5 89 - Light Walnut
+#280D1A 213 - Eggplant
+#BBAC7E 95 - Light Tan
+#131817 211 - Jet Black
+#757130 62 - Sepia
+#69743A 172 - Light Umber
+#6F753B 88 - Dark Brown
+#BFC287 209 - Khaki
+#FCFCFC 99 - Warm Grey 10%
+#EDF0F0 100 - Warm Grey 20%
+#E8E8ED 101 - Warm Grey 30%
+#DEE0E3 102 - Warm Grey 40%
+#B2BABF 103 - Warm Grey 50%
+#A6ADB5 104 - Warm Grey 60%
+#757F86 105 - Warm Grey 70%
+#4A4E57 106 - Warm Grey 80%
+#23242B 107 - Warm Grey 90%
+#060808 97 - Warm Black
+#F0F4F6 108 - Cool Grey 10%
+#E5ECEF 109 - Cool Grey 20%
+#CFDCE3 110 - Cool Grey 30%
+#BBC6CD 111 - Cool Grey 40%
+#A5B0B7 112 - Cool Grey 50%
+#8BA0AC 113 - Cool Grey 60%
+#68808D 114 - Cool Grey 70%
+#516570 115 - Cool Grey 80%
+#36464E 116 - Cool Grey 90%
+#060808 98 - Black
+#F5F2F0 155 - French Grey 10%
+#E8E8E6 156 - French Grey 20%
+#CCCFC7 157 - French Grey 30%
+#B5BAB8 158 - French Grey 40%
+#A4A4A4 159 - French Grey 50%
+#939898 160 - French Grey 60%
+#757C7C 161 - French Grey 70%
+#4C5254 162 - French Grey 80%
+#272A2C 163 - French Grey 90%
+#FFFFFF 121 - Colorless Blender
+#95A9A7 117 - Metallic Silver Broad
+#95A9A7 118 - Metallic Silver Fine
+#A2B157 119 - Metallic Gold Broad
+#A2B157 120 - Metallic Gold Fine
+#9AA900 149 - Bronze
+#DDDCDD 216 - Neutral Grey 10%
+#C4C3C6 217 - Neutral Grey 20%
+#AEACB0 218 - Neutral Grey 30%
+#99979D 219 - Neutral Grey 40%
+#86848B 220 - Neutral Grey 50%
+#74737A 221 - Neutral Grey 60%
+#64636B 222 - Neutral Grey 70%
+#55565D 223 - Neutral Grey 80%
+#464951 224 - Neutral Grey 90%
+#FBF1EA 24 - Almond Milk
+#F5DFE1 3 - Ballet Pink Light
+#EECBCD 9 - Blush Pink Light
+#FFF699 20 - Canary Yellow Light
+#E19D94 260 - Carmine Red Light
+#F0CBA7 230 - Deco Orange Light
+#F7E6EF 233 - Deco Pink Light
+#F1D8D5 136 - Dusty Rose
+#E2DAEC 148 - Greyed Lavender Light
+#E4D5C0 271 - Light Umber 20%
+#DECBB2 272 - Light Umber 30%
+#D1BFAC 273 - Light Umber 40%
+#CBB6A1 274 - Light Umber 50%
+#C4AD96 275 - Light Umber 60%
+#BDA38A 276 - Light Umber 70%
+#B69B80 277 - Light Umber 80%
+#8A7455 278 - Light Umber 90%
+#9D96C5 173 - Lilac Light
+#D5ADCD 52 - Mulberry Light
+#139ACA 179 - Neon Blue
+#A8C860 181 - Neon Green
+#EFC253 175 - Neon Orange
+#C36AA1 177 - Neon Pink
+#FCE824 174 - Neon Yellow
+#F6ED63 180 - Neon Yellow Green
+#81BDB5 33 - Parrot Green Light
+#E0A3C4 280 - Pink Light
+#E7BBD4 2 - Process Red Light
+#94247F 56 - Rhodamine Dark
+#D99BBF 54 - Rhodamine Light
+#1A83C5 81 - Turquoise Dark
+#8AAEDC 244 - Ultramarine Light
+#D4B0E1 41 - Violet Blue Light
+#3F3E8B 51 - Violet Dark
+#EFC253 215 - Yellow Orange Light
