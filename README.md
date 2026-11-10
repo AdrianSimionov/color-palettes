@@ -12,8 +12,8 @@
 This tool will do, via a handler, the following:
 - it will sort colors in a file, based on one of the supported algorithms;
 - it will convert the input file between HEX, RGB and HSL formats;
-- it will pack a HEX, RGB or HSL format into ACO and ASE formats;
-- it will unpack an ASE or ACO file into any of the HEX, RGB or HSL formats.
+- it will pack a HEX, RGB or HSL format into ACO, ASE and CLR formats;
+- it will unpack an ASE, ACO or CLR file into any of the HEX, RGB or HSL formats.
 
 Install requirements:
 
@@ -21,7 +21,11 @@ Install requirements:
 python3 -m pip install -r requirements.txt
 ```
 
-Due to `pyobjc` dependency, this script will work only MacOS.
+CLR support is portable. Reading handles legacy typedstream files with the
+pure-Python [`pytypedstream`](https://pypi.org/project/pytypedstream/) package,
+keyed `NSKeyedArchiver` plists with the standard library, and the legacy ASCII
+format. Writing emits the same legacy typedstream format that macOS
+`NSColorList` produces. AppKit and PyObjC are not required.
 
 **Usage:**
 
@@ -114,11 +118,17 @@ optional arguments:
 **Input File Sample**
 
 ```
-<HEX_COLOR|RGB_COLOR|HSL_COLOR> <COLOR_NAME
+<HEX_COLOR|RGB_COLOR|HSL_COLOR> <COLOR_NAME>
 ```
 
 ```
 #010203 HEX Color
 RGB(56, 99, 79) Resene
 HSL(39, 45%, 42%) Resene
+```
+
+**Tests**
+
+```
+python3 -m unittest discover -s tests -v
 ```

@@ -4,15 +4,13 @@ import argparse
 import colorsys
 import math
 from typing import Tuple
-import os
 import json
 import functools
-import objc
 import struct
 import sys
 import io
-from Foundation import *
-from AppKit import NSColorList, NSColor
+
+import clr_codec
 
 def hex_to_rgb(hex_color):
     hex_color = hex_color.lstrip('#')
@@ -214,46 +212,42 @@ def convert_colors(args):
                 f.write(f'{color} {name}\n')
 
 def pack_colors_clr(args):
-    mapping = {}
+    colors = {}
     text = open(args.input_file, 'r', encoding='utf-8').read()
     if text.lstrip().startswith('{'):
         obj = json.loads(text)
-        mapping = {name: val for name, val in obj.items()}
+        for name, value in obj.items():
+            h = str(value).lstrip('#')
+            if len(h) < 6:
+                h = ''.join(c * 2 for c in h)
+            if len(h) < 6:
+                raise ValueError(f"Invalid hex color for {name!r}: {value!r}")
+            colors[name] = tuple(int(h[i:i+2], 16) / 255.0 for i in (0, 2, 4))
     else:
         for line in text.splitlines():
-            if not line.strip(): continue
+            if not line.strip():
+                continue
             rgb, name = parse_input_line(line)
-            mapping[name] = "{:02X}{:02X}{:02X}".format(*rgb)
+            colors[name] = tuple(component / 255.0 for component in rgb)
 
-    base = os.path.splitext(os.path.basename(args.output_file))[0]
-    nsclr = NSColorList.alloc().initWithName_(base)
-
-    for idx, (name, hex6) in enumerate(mapping.items()):
-        h = hex6.lstrip('#')
-        if len(h) < 6:
-            h = ''.join(c*2 for c in h)
-        r, g, b = [int(h[i:i+2], 16)/255.0 for i in (0,2,4)]
-        ns = NSColor.colorWithCalibratedRed_green_blue_alpha_(r, g, b, 1.0)
-        nsclr.insertColor_key_atIndex_(ns, name, idx)
-
-    nsclr.writeToFile_(args.output_file)
+    items = [(name, (*rgb, 1.0)) for name, rgb in colors.items()]
+    clr_codec.write_clr(args.output_file, items)
     print(f".clr file written to {args.output_file}")
 
 def unpack_colors_clr(args):
-    base = os.path.splitext(os.path.basename(args.input_file))[0]
     try:
-        nsclr = NSColorList.alloc().initWithName_fromFile_(base, args.input_file)
+        items = clr_codec.read_clr(args.input_file)
     except Exception as e:
         print(f"Error: Unable to read CLR. {e}")
         return
 
     extracted = []
-    for key in nsclr.allKeys():
-        c = nsclr.colorWithKey_(key)
-        r = int(c.redComponent()   * 255)
-        g = int(c.greenComponent() * 255)
-        b = int(c.blueComponent()  * 255)
-        extracted.append(((r, g, b), key))
+    for name, (r, g, b, alpha) in items:
+        rgb = tuple(
+            max(0, min(255, round(component * 255)))
+            for component in (r, g, b)
+        )
+        extracted.append((rgb, name))
 
     if not extracted:
         print("No colors were extracted from the file.")
