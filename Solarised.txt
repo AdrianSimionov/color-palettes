@@ -1,0 +1,16 @@
+#002B36 Base03
+#073642 Base02
+#586E75 Base01
+#657B83 Base00
+#839496 Base0
+#93A1A1 Base1
+#EEE8D5 Base2
+#FDF6E3 Base3
+#B58900 Yellow
+#CB4B16 Orange
+#DC322F Red
+#D33682 Magenta
+#6C71C4 Violet
+#268BD2 Blue
+#2AA198 Cyan
+#859900 Green

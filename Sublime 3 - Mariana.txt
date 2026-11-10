@@ -1,0 +1,19 @@
+#000000 Black
+#6699CC Blue
+#5C99D6 Blue Vibrant
+#596673 Blue 2
+#303841 Blue 3
+#647382 Blue 4
+#5FB4B4 Blue 5
+#A6ACB9 Blue 6
+#99C794 Green
+#333333 Grey
+#F9AE58 Orange
+#EE932B Orange 2
+#FAC761 Orange 3
+#C695C6 Pink
+#EC5F66 Red
+#F97B58 Red 2
+#FFFFFF White
+#F7F7F7 White 2
+#D8DEE9 White 3

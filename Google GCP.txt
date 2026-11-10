@@ -1,0 +1,23 @@
+#4285F4 Blue
+#76A7FA Blue - White 40%
+#A0C3FF Blue - White 60%
+#DB4437 Red
+#E57369 Red - White 40%
+#ED9D97 Red - White 60%
+#F4B400 Yellow
+#FBCB43 Yellow - White 40%
+#FFE168 Yellow - White 60%
+#0F9D58 Green
+#33B679 Green - White 40%
+#7BCFA9 Green - White 60%
+#E7E6DD Sepia
+#1A1A1A K90
+#333333 K80
+#4D4D4D K70
+#666666 K60
+#808080 K50
+#999999 K40
+#B3B3B3 K30
+#CCCCCC K20
+#E6E6E6 K10
+#F2F2F2 K5

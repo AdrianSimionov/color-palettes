@@ -1,0 +1,14 @@
+#2C88D9 Blue
+#6558F5 Indigo
+#730FC3 Purple
+#BD34D1 Pink
+#1AAE9F Mint
+#207868 Green
+#897A5F Brown
+#AC6363 Crimson
+#D3455B Red
+#E8833A Orange
+#F7C325 Yellow (Dark Text)
+#C3D0D9 Smoke (Dark Text)
+#788897 Gray
+#4B5D6C Slate
