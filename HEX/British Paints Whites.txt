@@ -1,0 +1,22 @@
+#E5E5E5 WB1 - Infinity White
+#E5E8E3 WB4 - White Link
+#EBEDE6 WB3 - White Escape
+#F6F6F1 WB2 - Love Note
+#ECECE6 WB7 - Star White
+#EBEBE3 WB5 - Dreamy White
+#E5E5DE WB8 - White Disclosure
+#E7E3DE WB10 - Tiger White
+#EBE7DC WB6 - White Focus
+#EDE7DD WB11 - White Comfort
+#EDE8DD WB12 - White Beam
+#E5E3D7 WB9 - Frosted Window
+#E6DFD3 WB13 - Charming White
+#E7E2D3 WB14 - Winter Chic
+#E7DECE WB15 - Salt And Sand
+#E8DFCF WB16 - Tokyo Snow
+#E1DDD4 WB17 - Gentle Wind
+#D7D2C8 WB18 - Arctic Crossing
+#E7E3D4 W14 - White Hub
+#E8E1D3 W6 - White Belle
+#E5E4DD W12 - Snow Peak
+#E8DFCC W9 - Peace Flower

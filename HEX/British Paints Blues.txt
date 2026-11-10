@@ -1,0 +1,46 @@
+#505F99 274 - Blue Encounter
+#394873 275 - Blue Trump
+#2F4773 255 - River Watch
+#1F94D2 280 - Hot Pop Blue
+#0578BD 279 - Harbour View
+#364A61 298 - Costa Rica Blue
+#A2B0D0 270 - Poodle
+#5771A4 273 - Tornado
+#6E91BE 257 - Ocean Plunge
+#7DC0E6 282 - Blue Passion
+#B5D3E4 284 - Perfect Coastline
+#4C6A87 296 - Peter's Palace
+#B6BFDF 269 - Satellite
+#9FB7D8 259 - Water Bead
+#D3DBEB 267 - Silken Blue
+#DBECF1 287 - Billie Blue
+#B9D4E6 290 - New Arrival
+#7494B0 294 - Blue Forge
+#DFE4EA 266 - Snowy Clouds
+#C2D3E7 262 - Blue Council
+#D2DAE4 263 - Satin Slip
+#CCD7D7 289 - River Star
+#E9F1EF 311 - Sky Baby Blue
+#8DB3CF 292 - Distant Shore
+#C2CEE6 268 - Up And Away
+#B1C5DF 261 - Whitsunday Passage
+#5D8AB8 256 - Blue Fortress
+#C9E4F0 285 - Levent
+#E9EFED 334 - Fresh Ice
+#A4C5DB 291 - Blueberry Cream
+#8799C2 271 - Blueberry Ash
+#ABC0E1 260 - Glazed Blue
+#61819E 295 - Cool Store
+#4E9FD5 281 - Northern Blue
+#D6EAF2 286 - Bilko Blue
+#8CA8C1 293 - Healing Spa
+#7988B2 272 - Childs Play
+#85A2C9 258 - Blue Cashmere
+#1C3969 254 - Sea Shepherd
+#00629F 278 - James Blue
+#AAD6EC 283 - I'm Blue
+#3F5B77 297 - Vintage Denim
+#3C466C 276 - Midnight Whirlwind
+#3C4976 253 - Texas Blue Bells
+#16477A 277 - Ocean Charm
+#2B3648 299 - Kara Sea

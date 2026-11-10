@@ -1,0 +1,45 @@
+#1E86A2 302 - Atlantic Sea
+#00778A 344 - Grand Turquoise
+#007B7D 323 - New Tropics
+#009F8B 324 - Bollywood Jade
+#7BB8BD 317 - Mermaid Splash
+#4197B0 303 - Caribbean Bliss
+#218E9D 342 - Tempted Teal
+#4C9092 318 - Pacific Lagoon
+#3FB9A9 325 - Naturalist
+#B1DDD9 330 - Delicious Mint
+#68B2C7 304 - Playgroup
+#66C5D6 339 - Temperate Tide
+#94C7CB 316 - Water Flow
+#96D2CC 329 - Reckless Green
+#C2E5E1 331 - Pure Mint
+#8DCCD8 338 - Turquoise Whirl
+#9FCEDB 306 - Pick Me Up
+#B9DEE2 312 - Jello Mint
+#C9E9E8 335 - Feeling Fresh
+#DFEEEE 310 - Blown Away
+#85C3D4 305 - Relaxation
+#AFD8DE 336 - Water Watch
+#C2E7ED 308 - Secret Blue
+#C8E9EA 332 - Peaceful Bay
+#DBECE9 309 - Complete Harmony
+#56AFC0 340 - Mystery Island
+#A2D6E0 337 - Aqua Motion
+#B8DEE5 307 - Frozen Moment
+#B7DCDE 313 - Atrium Light
+#CBE6E8 333 - Mint Crunch
+#0097AA 341 - Tropical Bird
+#A2CED2 315 - Freshness
+#AADDE2 314 - Open Air
+#7FD4C9 326 - Mint Milestone
+#85CAC3 328 - Shrub Leaf
+#096880 301 - Santiago Blue
+#408A92 343 - Waterfall Ridge
+#2F7174 319 - Spring Trek
+#81D5C9 327 - Green Spike
+#04505C 321 - Riverland Blue
+#255974 300 - River Rapids
+#096E7C 345 - Tempted Turquoise
+#275C5F 320 - Irish Brogue
+#27494D 322 - Webster Park
+#97B2B0 322 - Blue Daze

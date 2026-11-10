@@ -1,0 +1,48 @@
+#B18F79 28 - Casual
+#79463C 161 - Witching
+#75655B 44 - Bass And Flinders
+#B6A99E 41 - Sandy Gorge
+#655E59 3 - Space Capsule
+#5D5756 1 - Ace Of Clubs
+#C2A48E 29 - Barista Fare
+#875E4F 160 - Field Notes
+#938476 42 - Stone Cave
+#C3BEBA 12 - Beige Bravado
+#887E75 20 - Winter Grey
+#79706B 4 - Grey Change
+#D1B7A3 30 - Gently
+#8E6A57 26 - Branch Out
+#C1B7A6 39 - Stone Path
+#CBC5BF 11 - Refined Stone
+#978E8B 6 - Charcoal Rigour
+#8C847E 19 - Primal Instinct
+#ECDED1 33 - Lovey
+#F9EDDB 35 - Tea Light
+#DED6C9 37 - Foundation Stone
+#CBC6C1 10 - Arctic Grey
+#C3BCB7 14 - Twisted Rope
+#A09993 16 - Solid Stone
+#E6D5C5 32 - English Beach
+#F7EDDB 34 - Stone Pillar
+#DED7CC 36 - Pathways
+#BEB6B3 9 - Stoneboard
+#C9C4BF 13 - Resiliant
+#989088 17 - Winteridge
+#DDC8B5 31 - Henhouse
+#BCAC9A 40 - Cane Chair
+#CAC1B2 38 - Set In Stone
+#B3ABA9 8 - Neutral Grey
+#B2ACA7 15 - Grey Fibre
+#8C8782 18 - Barn Owl
+#9E7B67 27 - Yani's Earth
+#705444 24 - Rocky Hideaway
+#958579 43 - Renewed Timber
+#867D78 5 - Steamed Mushroom
+#ACA4A0 7 - Chateau Stone
+#7B726C 21 - Fossil Record
+#7B5744 25 - Timber Loft
+#624A3A 45 - Rich Soil
+#554A43 23 - Prehistoric
+#504439 46 - Rich Cocoa
+#625751 2 - Elephant Run
+#6A6157 22 - Wombat Gully

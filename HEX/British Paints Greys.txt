@@ -1,0 +1,46 @@
+#464B51 416 - Rhino Grey
+#595D66 435 - Top Shot
+#3B3D43 415 - Dark Silhouette
+#655F63 458 - Slate Element
+#615D64 441 - Road Ahead
+#615D63 459 - Hardware Lane
+#787D87 419 - Knowledge
+#8B9094 420 - Tabloid
+#646972 418 - Portal Grey
+#A7A3AA 444 - Grey Canvas
+#979297 443 - Afternoon Storm
+#827E84 442 - Metro Style
+#A4A8B0 431 - Pilot
+#B6BABD 422 - Cold Metal
+#969CA2 421 - Animal Kingdom
+#D1D0D2 450 - Grey Spirit
+#D7D4D5 447 - Dawn Frost
+#ACA7AA 445 - Hidden
+#DEE1E0 425 - Lighten Up
+#D2D6D8 428 - White Albatross
+#B4B9BC 423 - Status Cloud
+#C6C4C9 451 - Imperial Mist
+#E5E4E3 449 - Smiley White
+#CDC9CB 446 - Parliament Hall
+#E7E8E6 426 - Diamond White
+#D7DBDB 427 - Mountain Peak
+#BDBFBD 424 - Mineral Salt
+#BCBBBF 452 - Cloudy Winter
+#DCDBDB 448 - Unlimited Space
+#B7B4BB 453 - Winter Haze
+#B7BCC1 429 - Silver Treasure
+#6A7077 433 - Systematic
+#A0A5A8 430 - Universal
+#9E9CA0 454 - Original Grey
+#8E898C 455 - Metal Links
+#817C82 456 - Bullet Proof
+#8E939C 432 - Capsule
+#64696F 434 - Maritime Charcoal
+#4A494F 440 - Grey Tablelands
+#716E72 457 - Limited Edition
+#514E53 437 - Cable Grey
+#4B3F3E 460 - Black Trend
+#65666C 436 - Grey Charter
+#393B40 439 - Ace Of Spades
+#2D2E2F 438 - Black Ace
+#555B61 417 - Heavy Metal

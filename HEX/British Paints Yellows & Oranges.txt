@@ -1,0 +1,95 @@
+#FED138 49 - Yellow Mania
+#FEC338 48 - Hide And Seek
+#D09641 89 - Liquid Gold
+#DD9B3F 94 - Fool's Crown
+#D48B36 93 - Yellow Brick Road
+#D08156 136 - Electric Avenue
+#FAD364 52 - Buttercup Field
+#F7CD62 68 - Good Karma
+#E1AC4D 70 - Vast Estate
+#E6A950 95 - Oscar Gold
+#B97B37 114 - Maize Madness
+#C87D47 118 - Orange Critic
+#FCE294 54 - Sublime Yellow
+#F8DB96 65 - Echo Beach
+#E3B05A 71 - Abundant Harvest
+#F2C372 97 - Gold Harmony
+#C78E49 113 - Pastry Parlour
+#D87E35 119 - Worldly
+#F8EDCC 61 - Pillow Talk
+#FAE3AB 64 - Harmonic
+#EFC986 86 - Peninsula Sand
+#F4CB86 98 - Golden Sail
+#CA9456 112 - Unbaked Clay
+#FC9A53 120 - Passionfruit Poppy
+#F6EED5 59 - Icing Sugar
+#FAEABB 63 - Scented Candle
+#F8DA99 85 - Honey Oat
+#F6D59B 100 - Spun Straw
+#D6A467 111 - Grand Hotel
+#FEAC69 121 - Fresh Orange
+#F7F0DF 80 - Simply Vanilla
+#F5F0D4 58 - Soy Milk
+#F8E1AA 84 - Banana Crepe
+#FAE3B4 102 - Straw Loft
+#E1BF90 110 - Rich Sandstone
+#FEAA7C 134 - Peachy Dream
+#F9F0D5 81 - Potential
+#F8F1C7 57 - Sunlit Heaven
+#F8EFC6 78 - Egg Pasta
+#F8E8C3 103 - Smooth Vanilla
+#EACEA5 109 - Island Sand
+#FFB577 122 - Montage
+#F7F3DD 79 - Lemon Souffle
+#FAEFBD 56 - Custard Bake
+#F9EAC8 82 - Sunshine Rays
+#F8DCA8 101 - Making Hay
+#EFD9B6 107 - Lifestyle
+#FFC18C 123 - Exquisite Peach
+#F8F0D5 60 - Crystal White
+#FBE9A3 55 - Golden Butter
+#F8E7BD 77 - Velvet Cream
+#F9D696 99 - Pumpkin Skin
+#E8D1AF 108 - Sculptured Sand
+#FFCFA2 124 - Fizzy Sherbet
+#F7E8BF 62 - Wheat Range
+#F5D487 66 - Good To Go
+#F8E0AB 83 - Cream Delight
+#FDE294 73 - Golden Moon
+#EEDFC7 106 - Homestyle
+#FDDFC7 128 - Sugar Beat
+#FDDF87 53 - Happy Home
+#F5D07F 67 - Jitterbug
+#FAE2A7 76 - Squeaky Beach
+#EBB763 96 - Peanut Oil
+#F8EDD1 104 - Porcelain Glow
+#FDDABC 129 - Ruby Sunshine
+#F7CF47 50 - High Alert
+#E8B446 69 - Crazy Daisy
+#F6DA9C 75 - Honey Blonde
+#C19344 90 - Harvest View
+#F3EAD8 105 - Delicate Lace
+#F2CAB0 131 - Retro Peach
+#F7C84B 51 - My Favourite
+#E1AE5E 87 - Grainstore
+#F4D18C 74 - Sand Wash
+#A8844E 91 - Ginger Tea
+#FCE7D4 127 - Chilled Champagne
+#EFBD9D 132 - Perfect Timing
+#FDBA2E 47 - Hot Pop Yellow
+#D9A04D 88 - Topaz Dream
+#E9BA68 72 - Prosper
+#9F7B46 92 - Habitat House
+#F2DBCA 126 - Truly Divine
+#E9AC87 133 - Plastic Fantastic
+#D1BA92 70 - Golden Lamp
+#F5D7BE 130 - Snuggle Up
+#DA9267 135 - Apricot Lace
+#FFDBB6 125 - Naked City
+#C77649 117 - Real Apricot
+#A26337 137 - Wild Riches
+#B86139 116 - Rosanna Gold
+#9F6336 115 - Wooden Doll
+#A3513E 140 - Exotic Terracotta
+#965734 138 - Natural Paprika
+#924735 139 - Hot Jam

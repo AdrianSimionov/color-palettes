@@ -1,0 +1,64 @@
+#C18C87 157 - Pink Rival
+#F3B2AC 143 - Sweetest
+#C25064 188 - Pink Groove
+#E3A6B7 201 - Sweet Candy
+#C36E80 205 - Prom Queen
+#A9547E 211 - Fuchsia Bloom
+#CC9E9B 156 - Legacy Rose
+#F6BEB9 145 - Rose Vision
+#D16377 189 - Swinging Pink
+#F5CDDD 194 - Luminous Pink
+#D78FA1 203 - Velvet Slipper
+#B15A85 212 - Hibiscus Blossom
+#D0AEAB 155 - Rose Revival
+#FDD4CD 146 - Ballet Princess
+#E88195 190 - Sweet Caress
+#F1D1DF 198 - Pink Life
+#EBB9C6 200 - My Wish
+#D591B6 214 - Sugar Baby
+#EAD1C5 153 - Pinky Peach
+#FCDED8 147 - Soft Marshmallow
+#ED94A9 191 - Fizzy Pink
+#E3CCD4 217 - Pink Gem
+#F8CDD7 199 - Pink Bliss
+#E5B1D2 216 - Pink Perfume
+#EFDCD2 151 - Breadcrumb Trail
+#FBE6E0 148 - Gentle Kiss
+#F8C3C9 170 - Pink Dolly
+#EAD7DD 218 - Maggie May
+#F0C9D3 193 - Pink Sprinkle
+#E7DAE8 220 - Candle Scent
+#F0E4DD 149 - Kirsten Pink
+#F7E9EA 174 - Sheer Gown
+#F3ECEC 196 - Pink Drop
+#F5EDE9 150 - Touch Of Berry
+#F3EEEC 173 - Soft Pink
+#ECE6EC 219 - Crystal Dash
+#E8D9D2 152 - Piglet Pink
+#FCDDD8 175 - Spring Bloom
+#FDC3C7 177 - Iced Cupcake
+#F3DCE4 195 - Leyla Rose
+#F3DCE2 197 - Pink Dress
+#D99ABD 215 - Barberalla
+#E2CEC6 154 - Coastal Sand
+#E4B2AB 144 - Rose Candle
+#F6B3B7 178 - Rose Balm
+#FED3D4 176 - Cherry Vanilla
+#F3D9E3 172 - Paperback
+#C2739D 213 - Pink Orbit
+#B88C87 158 - All Seasons
+#D79087 142 - Forever Peach
+#EB9193 169 - French Bow
+#FACACF 171 - Pink Haven
+#DAA1AC 192 - Raspberry Silk
+#884967 210 - Wine Tasting
+#9B6B62 159 - Bubbling Brew
+#C27363 141 - Mollusk Shell
+#E27A7B 168 - Stolen Kiss
+#ECB5BD 179 - Love Affair
+#DFA0B0 202 - Pink Petal
+#7C3A56 208 - Plum Magic
+#CC6B6E 167 - Vital Rose
+#CD7D8F 204 - Bed Of Roses
+#B55B6C 206 - Paparazzi Pink
+#7F394F 209 - Merlot Valley

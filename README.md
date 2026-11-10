@@ -6,6 +6,19 @@
 | Apple | [CLR](CLR/Apple.clr?raw=1) | [ASE](ASE/Apple.ase?raw=1) | [ACO](ACO/Apple.aco?raw=1) |
 | Colors of Japan | [CLR](CLR/Colors%20of%20Japan.clr?raw=1) | [ASE](ASE/Colors%20of%20Japan.ase?raw=1) | [ACO](ACO/Colors%20of%20Japan.aco?raw=1) |
 | Open Color | [CLR](CLR/Open%20Color.clr?raw=1) | [ASE](ASE/Open%20Color.ase?raw=1) | [ACO](ACO/Open%20Color.aco?raw=1) |
+| British Paints Whites | [CLR](CLR/British%20Paints%20Whites.clr?raw=1) | [ASE](ASE/British%20Paints%20Whites.ase?raw=1) | [ACO](ACO/British%20Paints%20Whites.aco?raw=1) |
+| British Paints Neutrals | [CLR](CLR/British%20Paints%20Neutrals.clr?raw=1) | [ASE](ASE/British%20Paints%20Neutrals.ase?raw=1) | [ACO](ACO/British%20Paints%20Neutrals.aco?raw=1) |
+| British Paints Yellows & Oranges | [CLR](CLR/British%20Paints%20Yellows%20%26%20Oranges.clr?raw=1) | [ASE](ASE/British%20Paints%20Yellows%20%26%20Oranges.ase?raw=1) | [ACO](ACO/British%20Paints%20Yellows%20%26%20Oranges.aco?raw=1) |
+| British Paints Reds | [CLR](CLR/British%20Paints%20Reds.clr?raw=1) | [ASE](ASE/British%20Paints%20Reds.ase?raw=1) | [ACO](ACO/British%20Paints%20Reds.aco?raw=1) |
+| British Paints Pinks | [CLR](CLR/British%20Paints%20Pinks.clr?raw=1) | [ASE](ASE/British%20Paints%20Pinks.ase?raw=1) | [ACO](ACO/British%20Paints%20Pinks.aco?raw=1) |
+| British Paints Purples | [CLR](CLR/British%20Paints%20Purples.clr?raw=1) | [ASE](ASE/British%20Paints%20Purples.ase?raw=1) | [ACO](ACO/British%20Paints%20Purples.aco?raw=1) |
+| British Paints Blues | [CLR](CLR/British%20Paints%20Blues.clr?raw=1) | [ASE](ASE/British%20Paints%20Blues.ase?raw=1) | [ACO](ACO/British%20Paints%20Blues.aco?raw=1) |
+| British Paints Teals | [CLR](CLR/British%20Paints%20Teals.clr?raw=1) | [ASE](ASE/British%20Paints%20Teals.ase?raw=1) | [ACO](ACO/British%20Paints%20Teals.aco?raw=1) |
+| British Paints Greens | [CLR](CLR/British%20Paints%20Greens.clr?raw=1) | [ASE](ASE/British%20Paints%20Greens.ase?raw=1) | [ACO](ACO/British%20Paints%20Greens.aco?raw=1) |
+| British Paints Greys | [CLR](CLR/British%20Paints%20Greys.clr?raw=1) | [ASE](ASE/British%20Paints%20Greys.ase?raw=1) | [ACO](ACO/British%20Paints%20Greys.aco?raw=1) |
+| British Paints Colorbond | [CLR](CLR/British%20Paints%20Colorbond.clr?raw=1) | [ASE](ASE/British%20Paints%20Colorbond.ase?raw=1) | [ACO](ACO/British%20Paints%20Colorbond.aco?raw=1) |
+
+`British Paints Stains & Varnish` is omitted because its swatches are wood-texture images without RGB values.
 
 ### About
 

@@ -1,0 +1,15 @@
+#C53A40 185 - Hot Pop Red
+#A52E2F 181 - Sassy Red
+#A13534 180 - Kimono Red
+#9B3534 164 - Paint The Town
+#9D384F 207 - Red Ribbon
+#BC2F31 187 - Red Alert
+#B33F43 166 - Red Splendour
+#9D3133 163 - Red Emphasis
+#993130 182 - Devil's Cloak
+#572F2F 184 - Indian Red
+#BC302B 186 - Red Bauble
+#A4312D 165 - Red Viper
+#972F2F 162 - Red Outcome
+#7E3738 183 - Glazed Ruby
+#5E3E41 185 - Leather Chair
