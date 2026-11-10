@@ -7,7 +7,7 @@
 #B1ADA3 CB04 - Dune
 #514737 CB113 - Estate
 #C5C2AA CB64 - Evening Haze
-#776F62 CB 70 - GULLY
+#776F62 CB 70 - Gully
 #975540 CB 25 - Headland
 #3E434C CB63 - Ironstone
 #6C6153 CB58 - Jasper
